@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-09-13 19:15:55
-# 统计: DIRECT=254, PROXY=74, REJECT=38
+# 更新时间: 2026-09-13 19:29:15
+# 统计: DIRECT=254, PROXY=74
 
 # 需要代理的域名
 HOST-SUFFIX,0708.fs708.com,PROXY
@@ -333,43 +333,3 @@ HOST-SUFFIX,zju.gpcqqmsof.cc,DIRECT
 HOST-SUFFIX,zzrs.mfdyvip.com,DIRECT
 HOST-SUFFIX,zzzsts.lkkwip.cn,DIRECT
 HOST-SUFFIX,zzzznnn.lkkwip.cn,DIRECT
-
-# 拒绝访问（已失效）
-HOST-SUFFIX,3334.nl,REJECT
-HOST-SUFFIX,91rbnet.gslb-al.com,REJECT
-HOST-SUFFIX,api.hclyz.com,REJECT
-HOST-SUFFIX,api.qnang.com,REJECT
-HOST-SUFFIX,api.yngszcfw.com,REJECT
-HOST-SUFFIX,bili.ming1992.xyz,REJECT
-HOST-SUFFIX,dy.jmzp.net.cn,REJECT
-HOST-SUFFIX,error.papaya,REJECT
-HOST-SUFFIX,g.c494.com,REJECT
-HOST-SUFFIX,gongdian.top,REJECT
-HOST-SUFFIX,image.ijjxsxzw.com,REJECT
-HOST-SUFFIX,kanliao14.com,REJECT
-HOST-SUFFIX,kanliao2.one,REJECT
-HOST-SUFFIX,m.sdzhgt.com,REJECT
-HOST-SUFFIX,m3u8.nl,REJECT
-HOST-SUFFIX,mmzp18.lol,REJECT
-HOST-SUFFIX,pic.xustgq.cn,REJECT
-HOST-SUFFIX,play.brovods.top,REJECT
-HOST-SUFFIX,qkys.qukanwh.com,REJECT
-HOST-SUFFIX,rihou.cc,REJECT
-HOST-SUFFIX,rimg.iomycdn.com,REJECT
-HOST-SUFFIX,videos.yngte.com,REJECT
-HOST-SUFFIX,vip.wwgz.cn,REJECT
-HOST-SUFFIX,vwq83.com,REJECT
-HOST-SUFFIX,w.duboku.io,REJECT
-HOST-SUFFIX,wjizxlxa2.com,REJECT
-HOST-SUFFIX,www.2t58.com,REJECT
-HOST-SUFFIX,www.91rb.com,REJECT
-HOST-SUFFIX,www.brovods.top,REJECT
-HOST-SUFFIX,www.duboku.tv,REJECT
-HOST-SUFFIX,www.lreeok.vip,REJECT
-HOST-SUFFIX,www.mqtv.cc,REJECT
-HOST-SUFFIX,www.mrcx2.yachts,REJECT
-HOST-SUFFIX,www.wwgz.cn,REJECT
-HOST-SUFFIX,www.xjjkdfw.sbs,REJECT
-HOST-SUFFIX,youke2.picui.cn,REJECT
-HOST-SUFFIX,zdap.gkquu.cn,REJECT
-HOST-SUFFIX,zourjke.eu.org,REJECT
