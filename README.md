@@ -4,7 +4,7 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-09-13 17:23:32
+- **更新时间**: 2026-09-13 17:43:20
 - **直连域名**: 209 个
 - **需要代理**: 7 个
 - **已失效**: 4 个
@@ -18,11 +18,13 @@
 https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-proxy.list, tag=drpy源站, force-policy=proxy, update-interval=86400, opt-parser=false, enabled=true
 ```
 
-### Clash
+### Clash / ClashMi
+
+在 ClashMi 配置文件中添加（使用 Anchor 引用）：
 
 ```yaml
 rule-providers:
-  drpy-proxy:
+  drpy_proxy:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.yaml"
@@ -30,7 +32,13 @@ rule-providers:
     interval: 86400
 
 rules:
-  - RULE-SET,drpy-proxy,PROXY
+  - RULE-SET,drpy_proxy,PROXY
+```
+
+或在 ClashMi 编辑器中添加引用：
+
+```yaml
+drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.yaml" }
 ```
 
 ### Surge / Shadowrocket
