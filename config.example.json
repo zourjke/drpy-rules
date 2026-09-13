@@ -1,0 +1,30 @@
+{
+  "nas": {
+    "host": "rjke.eu.org",
+    "user": "root",
+    "spider_dirs": [
+      "/root/drpy-node/spider/py",
+      "/root/drpy-node/spider/js",
+      "/root/drpy-node/spider/php"
+    ],
+    "req_proxy_url": "http://127.0.0.1:57571/proxy"
+  },
+  "diagnosis": {
+    "timeout": 5,
+    "concurrency": 5,
+    "retry_count": 2,
+    "history_expire_days": 7
+  },
+  "github": {
+    "repo": "zourjke/drpy-rules",
+    "branch": "main",
+    "email": "zourjke@outlook.com",
+    "username": "zourjke"
+  },
+  "paths": {
+    "work_dir": "/root/rule-generator",
+    "cache_dir": "/root/rule-generator/cache",
+    "output_dir": "/root/rule-generator/output",
+    "log_dir": "/root/rule-generator/logs"
+  }
+}
