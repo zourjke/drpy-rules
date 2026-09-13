@@ -1,9 +1,8 @@
-# drpy-node 源站分流规则 (Clash/ClashMi)
-# 更新时间: 2026-09-13 17:43:20
-# 统计: DIRECT=209, PROXY=7, REJECT=4
+# drpy-node source routing rules (Clash/ClashMeta)
+# Updated: 2026-09-13 18:23:49
+# Counts: DIRECT=209, PROXY=7, REJECT=4
 
 payload:
-  # 需要代理的域名
   - DOMAIN-SUFFIX,8se.me
   - DOMAIN-SUFFIX,v.wbbb1.com
   - DOMAIN-SUFFIX,whos.tv

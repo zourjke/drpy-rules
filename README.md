@@ -4,7 +4,7 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-09-13 17:43:20
+- **更新时间**: 2026-09-13 18:23:49
 - **直连域名**: 209 个
 - **需要代理**: 7 个
 - **已失效**: 4 个
@@ -18,28 +18,27 @@
 https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-proxy.list, tag=drpy源站, force-policy=proxy, update-interval=86400, opt-parser=false, enabled=true
 ```
 
-### Clash / ClashMi
+### ClashMi
 
-在 ClashMi 配置文件中添加（使用 Anchor 引用）：
+规则数据文件：
 
-```yaml
-rule-providers:
-  drpy_proxy:
-    type: http
-    behavior: domain
-    url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.yaml"
-    path: ./ruleset/drpy-proxy.yaml
-    interval: 86400
-
-rules:
-  - RULE-SET,drpy_proxy,PROXY
+```text
+https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash-payload.yaml
 ```
 
-或在 ClashMi 编辑器中添加引用：
+在 ClashMi 主配置中按 Anchor_DN 格式引用：
 
 ```yaml
-drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.yaml" }
+drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash-payload.yaml" }
 ```
+
+然后在 `rules:` 中添加：
+
+```yaml
+- RULE-SET,drpy_proxy,PROXY
+```
+
+也可以直接引用仓库中的 `rules/drpy-clashmi.yaml` 片段。
 
 ### Surge / Shadowrocket
 
