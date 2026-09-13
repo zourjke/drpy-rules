@@ -1,1 +1,1 @@
-drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash-payload.yaml" }
+drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.mrs" }
