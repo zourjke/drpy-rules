@@ -4,7 +4,7 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-09-13 19:29:15
+- **更新时间**: 2026-09-13 19:33:30
 - **直连域名**: 254 个
 - **需要代理**: 74 个
 - **不可达（不生成分流）**: 38 个
@@ -23,13 +23,13 @@ https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-proxy.list,
 规则数据文件：
 
 ```text
-https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash-payload.yaml
+https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.mrs
 ```
 
 在 ClashMi 主配置中按 Anchor_DN 格式引用：
 
 ```yaml
-drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash-payload.yaml" }
+drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-clash.mrs" }
 ```
 
 然后在 `rules:` 中添加：
@@ -52,7 +52,7 @@ RULE-SET,https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-su
 - 规则每天凌晨 4 点自动更新
 - DIRECT 域名表示可直连访问
 - PROXY 域名表示需要代理访问
-- REJECT 域名表示已失效（连续诊断失败）
+- UNREACHABLE 域名仅记录，不生成任何分流规则
 
 ## 🔗 相关链接
 
