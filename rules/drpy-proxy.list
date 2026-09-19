@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-09-19 04:06:44
-# 统计: DIRECT=255, PROXY=74
+# 更新时间: 2026-09-20 04:06:32
+# 统计: DIRECT=254, PROXY=75
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -39,9 +39,9 @@ HOST-SUFFIX,stgay.com,PROXY
 HOST-SUFFIX,supjav.com,PROXY
 HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,theporn.cc,PROXY
-HOST-SUFFIX,tju.bnmdquasi.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
+HOST-SUFFIX,v.wbbb1.com,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
@@ -61,6 +61,7 @@ HOST-SUFFIX,www.lemoncams.com,PROXY
 HOST-SUFFIX,www.libvio.com,PROXY
 HOST-SUFFIX,www.pornhub.com,PROXY
 HOST-SUFFIX,www.pornlulu.com,PROXY
+HOST-SUFFIX,www.sihuhu.xyz,PROXY
 HOST-SUFFIX,www.tube8.com,PROXY
 HOST-SUFFIX,www.uaa.com,PROXY
 HOST-SUFFIX,www.uaa001.com,PROXY
@@ -257,6 +258,7 @@ HOST-SUFFIX,taoo.xyz,DIRECT
 HOST-SUFFIX,thu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,thu.gpcqqmsof.cc,DIRECT
 HOST-SUFFIX,thumbs.externulls.com,DIRECT
+HOST-SUFFIX,tju.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,tp.spfcas.com,DIRECT
 HOST-SUFFIX,tvapi211.magicetech.com,DIRECT
 HOST-SUFFIX,tvfun.centos.chat,DIRECT
@@ -264,7 +266,6 @@ HOST-SUFFIX,tvonline.bg,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.rbotv.cn,DIRECT
-HOST-SUFFIX,v.wbbb1.com,DIRECT
 HOST-SUFFIX,v.youku.com,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
 HOST-SUFFIX,video.externulls.com,DIRECT
@@ -301,7 +302,6 @@ HOST-SUFFIX,www.qcbtifw.xyz,DIRECT
 HOST-SUFFIX,www.qimao.com,DIRECT
 HOST-SUFFIX,www.qq.com,DIRECT
 HOST-SUFFIX,www.runjiaxcl.com,DIRECT
-HOST-SUFFIX,www.sihuhu.xyz,DIRECT
 HOST-SUFFIX,www.sorani.net,DIRECT
 HOST-SUFFIX,www.sudugu.org,DIRECT
 HOST-SUFFIX,www.uvod.tv,DIRECT
