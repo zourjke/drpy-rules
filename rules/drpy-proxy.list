@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-01 04:07:51
-# 统计: DIRECT=262, PROXY=69
+# 更新时间: 2026-10-03 04:07:11
+# 统计: DIRECT=263, PROXY=70
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -39,7 +39,6 @@ HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,theporn.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
-HOST-SUFFIX,v.wbbb1.com,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
@@ -47,7 +46,9 @@ HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
 HOST-SUFFIX,www.4kvm.org,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
+HOST-SUFFIX,www.dsd.com.se,PROXY
 HOST-SUFFIX,www.dycg66.com,PROXY
+HOST-SUFFIX,www.eporner.com,PROXY
 HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
 HOST-SUFFIX,www.hanju7.com,PROXY
@@ -111,7 +112,6 @@ HOST-SUFFIX,api.march24168.online,DIRECT
 HOST-SUFFIX,api.nn.ci,DIRECT
 HOST-SUFFIX,api.peppdsai.com,DIRECT
 HOST-SUFFIX,api.qlqwqexo.com,DIRECT
-HOST-SUFFIX,api.rmedphk.com,DIRECT
 HOST-SUFFIX,api.sorani.cc,DIRECT
 HOST-SUFFIX,api.tmdb.org,DIRECT
 HOST-SUFFIX,api.umygrx3.com,DIRECT
@@ -264,6 +264,7 @@ HOST-SUFFIX,tvonline.bg,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.rbotv.cn,DIRECT
+HOST-SUFFIX,v.wbbb1.com,DIRECT
 HOST-SUFFIX,v.youku.com,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
 HOST-SUFFIX,video.externulls.com,DIRECT
@@ -325,6 +326,7 @@ HOST-SUFFIX,xjtv04.vip,DIRECT
 HOST-SUFFIX,xmhk.7wzx9.com,DIRECT
 HOST-SUFFIX,xmu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,xmu.gpcqqmsof.cc,DIRECT
+HOST-SUFFIX,xqjzvcvt.top,DIRECT
 HOST-SUFFIX,xrpm.eu.cc,DIRECT
 HOST-SUFFIX,y.gtimg.cn,DIRECT
 HOST-SUFFIX,y.qq.com,DIRECT
