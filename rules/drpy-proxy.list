@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-06 04:07:24
-# 统计: DIRECT=273, PROXY=72
+# 更新时间: 2026-10-07 04:07:18
+# 统计: DIRECT=277, PROXY=68
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -41,7 +41,6 @@ HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,theporn.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
-HOST-SUFFIX,v.wbbb1.com,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
@@ -56,8 +55,6 @@ HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
 HOST-SUFFIX,www.hanju7.com,PROXY
 HOST-SUFFIX,www.ho5ho.com,PROXY
-HOST-SUFFIX,www.jxuma.com,PROXY
-HOST-SUFFIX,www.libvio.com,PROXY
 HOST-SUFFIX,www.pornhub.com,PROXY
 HOST-SUFFIX,www.pornlulu.com,PROXY
 HOST-SUFFIX,www.tube8.com,PROXY
@@ -70,7 +67,6 @@ HOST-SUFFIX,xhamster.com,PROXY
 HOST-SUFFIX,xhkan.top,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
 HOST-SUFFIX,y23xxa23duo12.xyz,PROXY
-HOST-SUFFIX,yidouge.com,PROXY
 HOST-SUFFIX,zh.cam4.com,PROXY
 HOST-SUFFIX,zh.stripchat.com,PROXY
 HOST-SUFFIX,zn.xhamster.com,PROXY
@@ -277,6 +273,7 @@ HOST-SUFFIX,txxkl7s60j.com,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.rbotv.cn,DIRECT
+HOST-SUFFIX,v.wbbb1.com,DIRECT
 HOST-SUFFIX,v.youku.com,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
 HOST-SUFFIX,video.externulls.com,DIRECT
@@ -305,6 +302,7 @@ HOST-SUFFIX,www.i275.com,DIRECT
 HOST-SUFFIX,www.jennyhow.com,DIRECT
 HOST-SUFFIX,www.knvod.com,DIRECT
 HOST-SUFFIX,www.kuaikaw.cn,DIRECT
+HOST-SUFFIX,www.libvio.com,DIRECT
 HOST-SUFFIX,www.libvio.io,DIRECT
 HOST-SUFFIX,www.libvio.to,DIRECT
 HOST-SUFFIX,www.luanlunba.cc,DIRECT
@@ -313,6 +311,7 @@ HOST-SUFFIX,www.mgtv.com,DIRECT
 HOST-SUFFIX,www.miguvideo.com,DIRECT
 HOST-SUFFIX,www.qimao.com,DIRECT
 HOST-SUFFIX,www.qq.com,DIRECT
+HOST-SUFFIX,www.qsxy.top,DIRECT
 HOST-SUFFIX,www.runjiaxcl.com,DIRECT
 HOST-SUFFIX,www.sorani.net,DIRECT
 HOST-SUFFIX,www.sudugu.org,DIRECT
@@ -342,6 +341,7 @@ HOST-SUFFIX,xqjzvcvt.top,DIRECT
 HOST-SUFFIX,xrpm.eu.cc,DIRECT
 HOST-SUFFIX,y.gtimg.cn,DIRECT
 HOST-SUFFIX,y.qq.com,DIRECT
+HOST-SUFFIX,yidouge.com,DIRECT
 HOST-SUFFIX,yyaq12.hyoeiqyrcp.top,DIRECT
 HOST-SUFFIX,zh.stripchat.global,DIRECT
 HOST-SUFFIX,zh.stripol.com,DIRECT
