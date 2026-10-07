@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-07 04:07:18
-# 统计: DIRECT=277, PROXY=68
+# 更新时间: 2026-10-08 04:07:16
+# 统计: DIRECT=276, PROXY=70
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -41,6 +41,7 @@ HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,theporn.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
+HOST-SUFFIX,v.wbbb1.com,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
@@ -55,6 +56,7 @@ HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
 HOST-SUFFIX,www.hanju7.com,PROXY
 HOST-SUFFIX,www.ho5ho.com,PROXY
+HOST-SUFFIX,www.jxuma.com,PROXY
 HOST-SUFFIX,www.pornhub.com,PROXY
 HOST-SUFFIX,www.pornlulu.com,PROXY
 HOST-SUFFIX,www.tube8.com,PROXY
@@ -273,7 +275,6 @@ HOST-SUFFIX,txxkl7s60j.com,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.rbotv.cn,DIRECT
-HOST-SUFFIX,v.wbbb1.com,DIRECT
 HOST-SUFFIX,v.youku.com,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
 HOST-SUFFIX,video.externulls.com,DIRECT
@@ -288,6 +289,7 @@ HOST-SUFFIX,www.4kcz.com,DIRECT
 HOST-SUFFIX,www.4kvm.net,DIRECT
 HOST-SUFFIX,www.51papaya.com,DIRECT
 HOST-SUFFIX,www.88xsp85.com,DIRECT
+HOST-SUFFIX,www.99jj28.com,DIRECT
 HOST-SUFFIX,www.baidu.com,DIRECT
 HOST-SUFFIX,www.bilibili.com,DIRECT
 HOST-SUFFIX,www.dbku.tv,DIRECT
@@ -302,7 +304,6 @@ HOST-SUFFIX,www.i275.com,DIRECT
 HOST-SUFFIX,www.jennyhow.com,DIRECT
 HOST-SUFFIX,www.knvod.com,DIRECT
 HOST-SUFFIX,www.kuaikaw.cn,DIRECT
-HOST-SUFFIX,www.libvio.com,DIRECT
 HOST-SUFFIX,www.libvio.io,DIRECT
 HOST-SUFFIX,www.libvio.to,DIRECT
 HOST-SUFFIX,www.luanlunba.cc,DIRECT
