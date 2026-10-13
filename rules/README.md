@@ -4,10 +4,11 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-10-11 04:07:28
-- **直连域名**: 276 个
-- **需要代理**: 74 个
+- **更新时间**: 2026-10-13 17:26:00
+- **直连域名**: 278 个
+- **需要代理**: 75 个
 - **不可达（不生成分流）**: 29 个
+- **手工补充**: 1 条（`extra_proxy.txt`）
 
 ## 🚀 使用方法
 
@@ -46,6 +47,16 @@ drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/dr
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-surge.conf,PROXY
 ```
+
+## 🧩 手工补充规则
+
+`extra_proxy.txt`（与 config.json 同目录）中的条目不会被自动扫描覆盖，会追加到各格式的代理段：
+
+- `IP-CIDR,58.99.33.0/24`
+
+- Surge / Shadowrocket、QuantumultX：原样输出并补 `,PROXY`
+- Clash：写入 `drpy-clash-payload.yaml`
+- ClashMi（`drpy-clash.mrs`）：仅支持域名类条目，`IP-CIDR` 等需在主配置里自行添加
 
 ## 📝 说明
 
