@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-20 04:07:15
-# 统计: DIRECT=293, PROXY=71
+# 更新时间: 2026-10-21 04:07:21
+# 统计: DIRECT=291, PROXY=72
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -12,6 +12,7 @@ HOST-SUFFIX,91porn.com,PROXY
 HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
+HOST-SUFFIX,api.6a7nnf7.com,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.umygrx3.com,PROXY
 HOST-SUFFIX,bad.news,PROXY
@@ -27,6 +28,7 @@ HOST-SUFFIX,hstream.moe,PROXY
 HOST-SUFFIX,huangguoai.com,PROXY
 HOST-SUFFIX,huanyu-proxy.daoyufan.workers.dev,PROXY
 HOST-SUFFIX,i.pinimg.com,PROXY
+HOST-SUFFIX,img.icons8.com,PROXY
 HOST-SUFFIX,img.lzzyimg.com,PROXY
 HOST-SUFFIX,jable.tv,PROXY
 HOST-SUFFIX,javdb.com,PROXY
@@ -40,10 +42,9 @@ HOST-SUFFIX,pic.lzzypic.com,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
 HOST-SUFFIX,t.061899.xyz,PROXY
-HOST-SUFFIX,theporn.cc,PROXY
-HOST-SUFFIX,tju.bnmdquasi.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
+HOST-SUFFIX,v.wbbb1.com,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
@@ -105,7 +106,6 @@ HOST-SUFFIX,api-h5.uvod.tv,DIRECT
 HOST-SUFFIX,api-ks.wtzw.com,DIRECT
 HOST-SUFFIX,api-read.qmplaylet.com,DIRECT
 HOST-SUFFIX,api-store.qmplaylet.com,DIRECT
-HOST-SUFFIX,api.6a7nnf7.com,DIRECT
 HOST-SUFFIX,api.aomybfqt.com,DIRECT
 HOST-SUFFIX,api.bilibili.com,DIRECT
 HOST-SUFFIX,api.dbokutv.com,DIRECT
@@ -119,7 +119,6 @@ HOST-SUFFIX,api.march24168.online,DIRECT
 HOST-SUFFIX,api.nn.ci,DIRECT
 HOST-SUFFIX,api.peppdsai.com,DIRECT
 HOST-SUFFIX,api.qlqwqexo.com,DIRECT
-HOST-SUFFIX,api.rmedphk.com,DIRECT
 HOST-SUFFIX,api.sorani.cc,DIRECT
 HOST-SUFFIX,api.tmdb.org,DIRECT
 HOST-SUFFIX,api.vuecloudrb.com,DIRECT
@@ -153,6 +152,7 @@ HOST-SUFFIX,cmsyt.lyyytv.cn,DIRECT
 HOST-SUFFIX,cof03.bahfn.cn,DIRECT
 HOST-SUFFIX,d2huxeowqcrhxe.cloudfront.net,DIRECT
 HOST-SUFFIX,d2tw9uw5rogvdw.cloudfront.net,DIRECT
+HOST-SUFFIX,d2wexzpo1hxhi0.cloudfront.net,DIRECT
 HOST-SUFFIX,d30zcqlpvg6j0s.cloudfront.net,DIRECT
 HOST-SUFFIX,d34vyrelvmcjzt.cloudfront.net,DIRECT
 HOST-SUFFIX,d3ea5bf3mxqaxz.cloudfront.net,DIRECT
@@ -194,7 +194,6 @@ HOST-SUFFIX,images.gamedog.cn,DIRECT
 HOST-SUFFIX,images.tmdb.org,DIRECT
 HOST-SUFFIX,images.weserv.nl,DIRECT
 HOST-SUFFIX,img.fullhd.xxx,DIRECT
-HOST-SUFFIX,img.icons8.com,DIRECT
 HOST-SUFFIX,img.xsnvshen.co,DIRECT
 HOST-SUFFIX,imgcache.qq.com,DIRECT
 HOST-SUFFIX,inews.gtimg.com,DIRECT
@@ -278,6 +277,7 @@ HOST-SUFFIX,taoo.xyz,DIRECT
 HOST-SUFFIX,thu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,thu.gpcqqmsof.cc,DIRECT
 HOST-SUFFIX,thumbs.externulls.com,DIRECT
+HOST-SUFFIX,tju.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,tp.spfcas.com,DIRECT
 HOST-SUFFIX,tvapi211.magicetech.com,DIRECT
 HOST-SUFFIX,tvfun.centos.chat,DIRECT
@@ -287,7 +287,6 @@ HOST-SUFFIX,txxkl7s60j.com,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.rbotv.cn,DIRECT
-HOST-SUFFIX,v.wbbb1.com,DIRECT
 HOST-SUFFIX,v.youku.com,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
 HOST-SUFFIX,video.externulls.com,DIRECT
