@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-26 04:06:46
-# 统计: DIRECT=292, PROXY=73
+# 更新时间: 2026-10-27 04:06:55
+# 统计: DIRECT=293, PROXY=73
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -14,6 +14,7 @@ HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,alter.tkxohouk.cc,PROXY
+HOST-SUFFIX,api.6a7nnf7.com,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.umygrx3.com,PROXY
 HOST-SUFFIX,assure.tkxohouk.cc,PROXY
@@ -43,7 +44,6 @@ HOST-SUFFIX,pic.lzzypic.com,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
 HOST-SUFFIX,t.061899.xyz,PROXY
-HOST-SUFFIX,tju.bnmdquasi.cc,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
@@ -105,7 +105,6 @@ HOST-SUFFIX,api-h5.uvod.tv,DIRECT
 HOST-SUFFIX,api-ks.wtzw.com,DIRECT
 HOST-SUFFIX,api-read.qmplaylet.com,DIRECT
 HOST-SUFFIX,api-store.qmplaylet.com,DIRECT
-HOST-SUFFIX,api.6a7nnf7.com,DIRECT
 HOST-SUFFIX,api.aomybfqt.com,DIRECT
 HOST-SUFFIX,api.asmrpleasure.com,DIRECT
 HOST-SUFFIX,api.bilibili.com,DIRECT
@@ -195,6 +194,7 @@ HOST-SUFFIX,hyxq03.com,DIRECT
 HOST-SUFFIX,images.gamedog.cn,DIRECT
 HOST-SUFFIX,images.tmdb.org,DIRECT
 HOST-SUFFIX,images.weserv.nl,DIRECT
+HOST-SUFFIX,img.fullhd.to,DIRECT
 HOST-SUFFIX,img.htxapi.space,DIRECT
 HOST-SUFFIX,img.icons8.com,DIRECT
 HOST-SUFFIX,img.xsnvshen.co,DIRECT
@@ -282,6 +282,7 @@ HOST-SUFFIX,taoo.xyz,DIRECT
 HOST-SUFFIX,thu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,thu.gpcqqmsof.cc,DIRECT
 HOST-SUFFIX,thumbs.externulls.com,DIRECT
+HOST-SUFFIX,tju.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,tp.spfcas.com,DIRECT
 HOST-SUFFIX,tvapi211.magicetech.com,DIRECT
 HOST-SUFFIX,tvfun.centos.chat,DIRECT
