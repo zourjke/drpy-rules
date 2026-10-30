@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-30 04:07:49
-# 统计: DIRECT=296, PROXY=70
+# 更新时间: 2026-10-31 04:07:30
+# 统计: DIRECT=294, PROXY=71
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -52,6 +52,7 @@ HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
+HOST-SUFFIX,www.eporner.com,PROXY
 HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
 HOST-SUFFIX,www.ho5ho.com,PROXY
@@ -95,7 +96,6 @@ HOST-SUFFIX,agency.bjidvlyog.com,DIRECT
 HOST-SUFFIX,ai.dramarush.tv,DIRECT
 HOST-SUFFIX,aigua.tv,DIRECT
 HOST-SUFFIX,aiimg.syyaann.com,DIRECT
-HOST-SUFFIX,alone.cmxzettb.com,DIRECT
 HOST-SUFFIX,alone.eeqvkpoh.cc,DIRECT
 HOST-SUFFIX,api-bc.wtzw.com,DIRECT
 HOST-SUFFIX,api-h5.uvod.tv,DIRECT
@@ -317,7 +317,6 @@ HOST-SUFFIX,www.dgpengcheng.com,DIRECT
 HOST-SUFFIX,www.douyu.com,DIRECT
 HOST-SUFFIX,www.dsd900.com,DIRECT
 HOST-SUFFIX,www.dsd900.lol,DIRECT
-HOST-SUFFIX,www.dycg66.com,DIRECT
 HOST-SUFFIX,www.free4kporn.com,DIRECT
 HOST-SUFFIX,www.fullhd.to,DIRECT
 HOST-SUFFIX,www.hanju7.com,DIRECT
