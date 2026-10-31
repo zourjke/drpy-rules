@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-10-31 04:07:30
-# 统计: DIRECT=294, PROXY=71
+# 更新时间: 2026-11-01 04:07:14
+# 统计: DIRECT=295, PROXY=71
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -26,7 +26,6 @@ HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
 HOST-SUFFIX,h5.rykamuzw.ink,PROXY
 HOST-SUFFIX,hsck123.com,PROXY
-HOST-SUFFIX,hsex.icu,PROXY
 HOST-SUFFIX,hstream.moe,PROXY
 HOST-SUFFIX,huangguoai.com,PROXY
 HOST-SUFFIX,huanyu-proxy.daoyufan.workers.dev,PROXY
@@ -52,6 +51,7 @@ HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
+HOST-SUFFIX,www.dycg66.com,PROXY
 HOST-SUFFIX,www.eporner.com,PROXY
 HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
@@ -96,6 +96,7 @@ HOST-SUFFIX,agency.bjidvlyog.com,DIRECT
 HOST-SUFFIX,ai.dramarush.tv,DIRECT
 HOST-SUFFIX,aigua.tv,DIRECT
 HOST-SUFFIX,aiimg.syyaann.com,DIRECT
+HOST-SUFFIX,alone.cmxzettb.com,DIRECT
 HOST-SUFFIX,alone.eeqvkpoh.cc,DIRECT
 HOST-SUFFIX,api-bc.wtzw.com,DIRECT
 HOST-SUFFIX,api-h5.uvod.tv,DIRECT
