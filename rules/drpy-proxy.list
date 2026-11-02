@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-02 04:08:48
-# 统计: DIRECT=296, PROXY=70
+# 更新时间: 2026-11-03 04:07:05
+# 统计: DIRECT=301, PROXY=68
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -13,8 +13,6 @@ HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
-HOST-SUFFIX,api.rmedphk.com,PROXY
-HOST-SUFFIX,api.umygrx3.com,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
@@ -78,6 +76,7 @@ HOST-SUFFIX,zrq.jsaa100.vip,PROXY
 IP-CIDR,58.99.33.0/24,PROXY
 
 # 直连域名
+HOST-SUFFIX,1.star2.cn,DIRECT
 HOST-SUFFIX,115.com,DIRECT
 HOST-SUFFIX,2025-1329689796.cos.ap-guangzhou.myqcloud.com,DIRECT
 HOST-SUFFIX,525071.com,DIRECT
@@ -118,8 +117,10 @@ HOST-SUFFIX,api.march24168.online,DIRECT
 HOST-SUFFIX,api.nn.ci,DIRECT
 HOST-SUFFIX,api.peppdsai.com,DIRECT
 HOST-SUFFIX,api.qlqwqexo.com,DIRECT
+HOST-SUFFIX,api.rmedphk.com,DIRECT
 HOST-SUFFIX,api.sorani.cc,DIRECT
 HOST-SUFFIX,api.tmdb.org,DIRECT
+HOST-SUFFIX,api.umygrx3.com,DIRECT
 HOST-SUFFIX,api.vuecloudrb.com,DIRECT
 HOST-SUFFIX,api.w32z7vtd.com,DIRECT
 HOST-SUFFIX,api.xinlangapi.com,DIRECT
@@ -192,6 +193,7 @@ HOST-SUFFIX,huangguoai.ai,DIRECT
 HOST-SUFFIX,huangguoai.me,DIRECT
 HOST-SUFFIX,huyaimg.msstatic.com,DIRECT
 HOST-SUFFIX,hyxq03.com,DIRECT
+HOST-SUFFIX,igtcqqindd4.icu,DIRECT
 HOST-SUFFIX,images.gamedog.cn,DIRECT
 HOST-SUFFIX,images.tmdb.org,DIRECT
 HOST-SUFFIX,images.weserv.nl,DIRECT
@@ -277,6 +279,7 @@ HOST-SUFFIX,share.feijipan.com,DIRECT
 HOST-SUFFIX,simages.lkkwip.cn,DIRECT
 HOST-SUFFIX,sjljsla.lkkwip.cn,DIRECT
 HOST-SUFFIX,space.bilibili.com,DIRECT
+HOST-SUFFIX,sssm.bahfn.cn,DIRECT
 HOST-SUFFIX,static.wikia.nocookie.net,DIRECT
 HOST-SUFFIX,store.externulls.com,DIRECT
 HOST-SUFFIX,sysu.bnmdquasi.cc,DIRECT
