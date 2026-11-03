@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-03 04:07:05
-# 统计: DIRECT=301, PROXY=68
+# 更新时间: 2026-11-04 04:07:10
+# 统计: DIRECT=300, PROXY=68
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -183,7 +183,6 @@ HOST-SUFFIX,gayvidsclub.com,DIRECT
 HOST-SUFFIX,gctxyc.liveplay.myqcloud.com,DIRECT
 HOST-SUFFIX,gh-proxy.org,DIRECT
 HOST-SUFFIX,gitee.com,DIRECT
-HOST-SUFFIX,github.com,DIRECT
 HOST-SUFFIX,h5.xxoo168.org,DIRECT
 HOST-SUFFIX,hit.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,hongguoduanju.com,DIRECT
