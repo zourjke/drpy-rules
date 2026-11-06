@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-06 04:07:41
-# 统计: DIRECT=309, PROXY=73
+# 更新时间: 2026-11-07 04:07:30
+# 统计: DIRECT=308, PROXY=72
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -12,7 +12,6 @@ HOST-SUFFIX,91porn.com,PROXY
 HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
-HOST-SUFFIX,api.6a7nnf7.com,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,assign.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
@@ -20,7 +19,6 @@ HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,board.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bus.p2vbviehb.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -38,6 +36,7 @@ HOST-SUFFIX,javdb.com,PROXY
 HOST-SUFFIX,jsonbfq1.cszmys.com,PROXY
 HOST-SUFFIX,kanliao7.net,PROXY
 HOST-SUFFIX,kanliao7.org,PROXY
+HOST-SUFFIX,luyitian.com,PROXY
 HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
 HOST-SUFFIX,pic.lzzypic.com,PROXY
@@ -109,6 +108,7 @@ HOST-SUFFIX,api-h5.uvod.tv,DIRECT
 HOST-SUFFIX,api-ks.wtzw.com,DIRECT
 HOST-SUFFIX,api-read.qmplaylet.com,DIRECT
 HOST-SUFFIX,api-store.qmplaylet.com,DIRECT
+HOST-SUFFIX,api.6a7nnf7.com,DIRECT
 HOST-SUFFIX,api.aomybfqt.com,DIRECT
 HOST-SUFFIX,api.asmrpleasure.com,DIRECT
 HOST-SUFFIX,api.bilibili.com,DIRECT
@@ -375,8 +375,6 @@ HOST-SUFFIX,xjtv04.vip,DIRECT
 HOST-SUFFIX,xmhk.7wzx9.com,DIRECT
 HOST-SUFFIX,xmu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,xmu.gpcqqmsof.cc,DIRECT
-HOST-SUFFIX,xqjzvcvt.top,DIRECT
-HOST-SUFFIX,xrpm.eu.cc,DIRECT
 HOST-SUFFIX,xwang06.com,DIRECT
 HOST-SUFFIX,y.gtimg.cn,DIRECT
 HOST-SUFFIX,y.qq.com,DIRECT
