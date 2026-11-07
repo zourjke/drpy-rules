@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-07 04:07:30
-# 统计: DIRECT=308, PROXY=72
+# 更新时间: 2026-11-08 04:07:33
+# 统计: DIRECT=312, PROXY=74
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -19,6 +19,7 @@ HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,board.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bus.p2vbviehb.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
+HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -39,6 +40,7 @@ HOST-SUFFIX,kanliao7.org,PROXY
 HOST-SUFFIX,luyitian.com,PROXY
 HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
+HOST-SUFFIX,personalmv.com,PROXY
 HOST-SUFFIX,pic.lzzypic.com,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
@@ -61,7 +63,6 @@ HOST-SUFFIX,www.jxuma.com,PROXY
 HOST-SUFFIX,www.libvio.com,PROXY
 HOST-SUFFIX,www.pornhub.com,PROXY
 HOST-SUFFIX,www.pornlulu.com,PROXY
-HOST-SUFFIX,www.tube8.com,PROXY
 HOST-SUFFIX,www.uaa.com,PROXY
 HOST-SUFFIX,www.uaa001.com,PROXY
 HOST-SUFFIX,www.xsnvshen.com,PROXY
@@ -70,6 +71,7 @@ HOST-SUFFIX,xchina.co,PROXY
 HOST-SUFFIX,xhamster.com,PROXY
 HOST-SUFFIX,xhkan.top,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
+HOST-SUFFIX,xqjzvcvt.top,PROXY
 HOST-SUFFIX,z9f8y.com,PROXY
 HOST-SUFFIX,zh.cam4.com,PROXY
 HOST-SUFFIX,zh.stripchat.com,PROXY
@@ -172,6 +174,7 @@ HOST-SUFFIX,d3ea5bf3mxqaxz.cloudfront.net,DIRECT
 HOST-SUFFIX,da8ttmrfqqhqf.cloudfront.net,DIRECT
 HOST-SUFFIX,dc.bz.mgtv.com,DIRECT
 HOST-SUFFIX,delivery.douyinpaly.com,DIRECT
+HOST-SUFFIX,desirewf.cc,DIRECT
 HOST-SUFFIX,dhysy9alxu0gy.cloudfront.net,DIRECT
 HOST-SUFFIX,dns.alidns.com,DIRECT
 HOST-SUFFIX,doh.pub,DIRECT
@@ -259,6 +262,7 @@ HOST-SUFFIX,mp.huya.com,DIRECT
 HOST-SUFFIX,mp4.pjrwfe.cn,DIRECT
 HOST-SUFFIX,mstatic1.cszmys.com,DIRECT
 HOST-SUFFIX,music.163.com,DIRECT
+HOST-SUFFIX,mvp.desirewf.cc,DIRECT
 HOST-SUFFIX,new.strah.tv,DIRECT
 HOST-SUFFIX,nnyy.la,DIRECT
 HOST-SUFFIX,novel.snssdk.com,DIRECT
@@ -330,6 +334,7 @@ HOST-SUFFIX,www.9hanju.com,DIRECT
 HOST-SUFFIX,www.baidu.com,DIRECT
 HOST-SUFFIX,www.bilibili.com,DIRECT
 HOST-SUFFIX,www.dbku.tv,DIRECT
+HOST-SUFFIX,www.desirewf.cc,DIRECT
 HOST-SUFFIX,www.dgpengcheng.com,DIRECT
 HOST-SUFFIX,www.douyu.com,DIRECT
 HOST-SUFFIX,www.dsd900.com,DIRECT
@@ -354,6 +359,7 @@ HOST-SUFFIX,www.qsxy.top,DIRECT
 HOST-SUFFIX,www.runjiaxcl.com,DIRECT
 HOST-SUFFIX,www.sorani.net,DIRECT
 HOST-SUFFIX,www.sudugu.org,DIRECT
+HOST-SUFFIX,www.tube8.com,DIRECT
 HOST-SUFFIX,www.uvod.tv,DIRECT
 HOST-SUFFIX,www.videosatservice.eu,DIRECT
 HOST-SUFFIX,www.w3.org,DIRECT
