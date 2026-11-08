@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-08 04:07:33
-# 统计: DIRECT=312, PROXY=74
+# 更新时间: 2026-11-09 04:07:36
+# 统计: DIRECT=315, PROXY=75
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -19,7 +19,6 @@ HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,board.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bus.p2vbviehb.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -31,6 +30,7 @@ HOST-SUFFIX,huangguoai.com,PROXY
 HOST-SUFFIX,huanyu-proxy.daoyufan.workers.dev,PROXY
 HOST-SUFFIX,i.pinimg.com,PROXY
 HOST-SUFFIX,img.lzzyimg.com,PROXY
+HOST-SUFFIX,imgpublic.ycomesc.live,PROXY
 HOST-SUFFIX,iqqtv.net,PROXY
 HOST-SUFFIX,jable.tv,PROXY
 HOST-SUFFIX,javdb.com,PROXY
@@ -59,6 +59,7 @@ HOST-SUFFIX,www.eporner.com,PROXY
 HOST-SUFFIX,www.google.com,PROXY
 HOST-SUFFIX,www.haijiao.com,PROXY
 HOST-SUFFIX,www.ho5ho.com,PROXY
+HOST-SUFFIX,www.ibbs.pro,PROXY
 HOST-SUFFIX,www.jxuma.com,PROXY
 HOST-SUFFIX,www.libvio.com,PROXY
 HOST-SUFFIX,www.pornhub.com,PROXY
@@ -199,6 +200,7 @@ HOST-SUFFIX,gitee.com,DIRECT
 HOST-SUFFIX,github.com,DIRECT
 HOST-SUFFIX,h5.xxoo168.org,DIRECT
 HOST-SUFFIX,hit.bnmdquasi.cc,DIRECT
+HOST-SUFFIX,hlsapp.gyezbp.cn,DIRECT
 HOST-SUFFIX,hongguoduanju.com,DIRECT
 HOST-SUFFIX,hsck.net,DIRECT
 HOST-SUFFIX,hsck.tv,DIRECT
@@ -274,8 +276,10 @@ HOST-SUFFIX,pcweb.api.mgtv.com,DIRECT
 HOST-SUFFIX,phbobyhxsyymolsmyzmq.supabase.co,DIRECT
 HOST-SUFFIX,php.doube.eu.org,DIRECT
 HOST-SUFFIX,pianku.api.mgtv.com,DIRECT
+HOST-SUFFIX,pic.gyezbp.cn,DIRECT
 HOST-SUFFIX,pic.rmb.bdstatic.com,DIRECT
 HOST-SUFFIX,proapi.115.com,DIRECT
+HOST-SUFFIX,pwa.yechaoapp.com,DIRECT
 HOST-SUFFIX,r0hiexcmqu1o.cc,DIRECT
 HOST-SUFFIX,raw.shorttv.online,DIRECT
 HOST-SUFFIX,rs2sts.pjrwfe.cn,DIRECT
