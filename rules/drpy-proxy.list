@@ -1,12 +1,14 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-10 04:07:45
-# 统计: DIRECT=313, PROXY=78
+# 更新时间: 2026-11-11 04:07:32
+# 统计: DIRECT=314, PROXY=78
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
 HOST-SUFFIX,4hu.tv,PROXY
 HOST-SUFFIX,51cg1.com,PROXY
+HOST-SUFFIX,71us.tov7yi5pxg.cc,PROXY
 HOST-SUFFIX,8se.me,PROXY
+HOST-SUFFIX,911tanhua.net,PROXY
 HOST-SUFFIX,91nt.com,PROXY
 HOST-SUFFIX,91porn.com,PROXY
 HOST-SUFFIX,91porn01.cc,PROXY
@@ -15,12 +17,12 @@ HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,api.6a7nnf7.com,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,assign.p2vbviehb.cc,PROXY
+HOST-SUFFIX,b59.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,board.p2vbviehb.cc,PROXY
 HOST-SUFFIX,bus.p2vbviehb.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -28,12 +30,12 @@ HOST-SUFFIX,h5.rykamuzw.ink,PROXY
 HOST-SUFFIX,hsck123.com,PROXY
 HOST-SUFFIX,hsex.icu,PROXY
 HOST-SUFFIX,hstream.moe,PROXY
-HOST-SUFFIX,huangguoai.com,PROXY
 HOST-SUFFIX,huanyu-proxy.daoyufan.workers.dev,PROXY
 HOST-SUFFIX,i.pinimg.com,PROXY
 HOST-SUFFIX,img.lzzyimg.com,PROXY
 HOST-SUFFIX,imgpublic.ycomesc.live,PROXY
 HOST-SUFFIX,iqqtv.net,PROXY
+HOST-SUFFIX,j818754ac1fdc8.xyz,PROXY
 HOST-SUFFIX,jable.tv,PROXY
 HOST-SUFFIX,javdb.com,PROXY
 HOST-SUFFIX,jsonbfq1.cszmys.com,PROXY
@@ -54,7 +56,6 @@ HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
-HOST-SUFFIX,www.99jj30.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
 HOST-SUFFIX,www.dycg66.com,PROXY
@@ -73,7 +74,6 @@ HOST-SUFFIX,www.xsnvshen.com,PROXY
 HOST-SUFFIX,www.xvideos.com,PROXY
 HOST-SUFFIX,xchina.co,PROXY
 HOST-SUFFIX,xhamster.com,PROXY
-HOST-SUFFIX,xhkan.top,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
 HOST-SUFFIX,xqjzvcvt.top,PROXY
 HOST-SUFFIX,z9f8y.com,PROXY
@@ -95,9 +95,7 @@ HOST-SUFFIX,56vgj.tkxohouk.cc,DIRECT
 HOST-SUFFIX,618013.xyz,DIRECT
 HOST-SUFFIX,618041.xyz,DIRECT
 HOST-SUFFIX,618608.xyz,DIRECT
-HOST-SUFFIX,71us.tov7yi5pxg.cc,DIRECT
 HOST-SUFFIX,911tanhua.com,DIRECT
-HOST-SUFFIX,911tanhua.net,DIRECT
 HOST-SUFFIX,a.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,ab.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,acs.youku.com,DIRECT
@@ -130,7 +128,6 @@ HOST-SUFFIX,api.march24168.online,DIRECT
 HOST-SUFFIX,api.nn.ci,DIRECT
 HOST-SUFFIX,api.peppdsai.com,DIRECT
 HOST-SUFFIX,api.qlqwqexo.com,DIRECT
-HOST-SUFFIX,api.rmedphk.com,DIRECT
 HOST-SUFFIX,api.sorani.cc,DIRECT
 HOST-SUFFIX,api.tmdb.org,DIRECT
 HOST-SUFFIX,api.umygrx3.com,DIRECT
@@ -165,7 +162,6 @@ HOST-SUFFIX,cdn.uameta.ai,DIRECT
 HOST-SUFFIX,chaquo.com,DIRECT
 HOST-SUFFIX,cjhecnimg.jiekrrj.cn,DIRECT
 HOST-SUFFIX,cmsyt.lyyytv.cn,DIRECT
-HOST-SUFFIX,cof03.bahfn.cn,DIRECT
 HOST-SUFFIX,cors.eu.org,DIRECT
 HOST-SUFFIX,d2huxeowqcrhxe.cloudfront.net,DIRECT
 HOST-SUFFIX,d2jgz4wrcczusu.cloudfront.net,DIRECT
@@ -174,6 +170,7 @@ HOST-SUFFIX,d2wexzpo1hxhi0.cloudfront.net,DIRECT
 HOST-SUFFIX,d30zcqlpvg6j0s.cloudfront.net,DIRECT
 HOST-SUFFIX,d34vyrelvmcjzt.cloudfront.net,DIRECT
 HOST-SUFFIX,d3ea5bf3mxqaxz.cloudfront.net,DIRECT
+HOST-SUFFIX,d3w21k5akureh7.cloudfront.net,DIRECT
 HOST-SUFFIX,da8ttmrfqqhqf.cloudfront.net,DIRECT
 HOST-SUFFIX,dc.bz.mgtv.com,DIRECT
 HOST-SUFFIX,delivery.douyinpaly.com,DIRECT
@@ -202,11 +199,14 @@ HOST-SUFFIX,gitee.com,DIRECT
 HOST-SUFFIX,github.com,DIRECT
 HOST-SUFFIX,h5.xxoo168.org,DIRECT
 HOST-SUFFIX,hit.bnmdquasi.cc,DIRECT
+HOST-SUFFIX,hktpwzsts.lkkwip.cn,DIRECT
 HOST-SUFFIX,hlsapp.gyezbp.cn,DIRECT
 HOST-SUFFIX,hongguoduanju.com,DIRECT
 HOST-SUFFIX,hsck.net,DIRECT
 HOST-SUFFIX,hsck.tv,DIRECT
+HOST-SUFFIX,huakui.com,DIRECT
 HOST-SUFFIX,huangguoai.ai,DIRECT
+HOST-SUFFIX,huangguoai.com,DIRECT
 HOST-SUFFIX,huangguoai.me,DIRECT
 HOST-SUFFIX,huyaimg.msstatic.com,DIRECT
 HOST-SUFFIX,hyxq03.com,DIRECT
@@ -223,7 +223,6 @@ HOST-SUFFIX,inews.gtimg.com,DIRECT
 HOST-SUFFIX,iqqab.com,DIRECT
 HOST-SUFFIX,iqqah.com,DIRECT
 HOST-SUFFIX,j741f6c110b3cf.xyz,DIRECT
-HOST-SUFFIX,j818754ac1fdc8.xyz,DIRECT
 HOST-SUFFIX,j8789198fa66b8.xyz,DIRECT
 HOST-SUFFIX,jav.place,DIRECT
 HOST-SUFFIX,javplayer.cc,DIRECT
@@ -284,6 +283,7 @@ HOST-SUFFIX,proapi.115.com,DIRECT
 HOST-SUFFIX,pwa.yechaoapp.com,DIRECT
 HOST-SUFFIX,r0hiexcmqu1o.cc,DIRECT
 HOST-SUFFIX,raw.shorttv.online,DIRECT
+HOST-SUFFIX,rjke.eu.org,DIRECT
 HOST-SUFFIX,rs2sts.pjrwfe.cn,DIRECT
 HOST-SUFFIX,rysp.tv,DIRECT
 HOST-SUFFIX,s.oxax.tv,DIRECT
@@ -334,6 +334,7 @@ HOST-SUFFIX,www.4kcz.com,DIRECT
 HOST-SUFFIX,www.4kvm.net,DIRECT
 HOST-SUFFIX,www.88xsp85.com,DIRECT
 HOST-SUFFIX,www.99jj28.com,DIRECT
+HOST-SUFFIX,www.99jj30.com,DIRECT
 HOST-SUFFIX,www.99jj37.com,DIRECT
 HOST-SUFFIX,www.9hanju.com,DIRECT
 HOST-SUFFIX,www.baidu.com,DIRECT
