@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-13 01:20:36
-# 统计: DIRECT=645, PROXY=83
+# 更新时间: 2026-11-13 01:23:59
+# 统计: DIRECT=649, PROXY=83
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -172,6 +172,8 @@ HOST-SUFFIX,apidd.spthgb.com,DIRECT
 HOST-SUFFIX,apinew.uozvr.com,DIRECT
 HOST-SUFFIX,app-site.ecoliving168.com,DIRECT
 HOST-SUFFIX,app.whjzjx.cn,DIRECT
+HOST-SUFFIX,aqsmimg1654.sbs,DIRECT
+HOST-SUFFIX,aqsmimg3459.sbs,DIRECT
 HOST-SUFFIX,aqsmimg4710.sbs,DIRECT
 HOST-SUFFIX,asdqzz.lkkwip.cn,DIRECT
 HOST-SUFFIX,asmrpleasure.com,DIRECT
@@ -513,6 +515,7 @@ HOST-SUFFIX,resvd.ubestkid.com,DIRECT
 HOST-SUFFIX,rjke.eu.org,DIRECT
 HOST-SUFFIX,rpic.douyucdn.cn,DIRECT
 HOST-SUFFIX,rs2sts.pjrwfe.cn,DIRECT
+HOST-SUFFIX,rsc.cdn77.org,DIRECT
 HOST-SUFFIX,rysp.tv,DIRECT
 HOST-SUFFIX,s.oxax.tv,DIRECT
 HOST-SUFFIX,s.tmimgcdn.com,DIRECT
@@ -533,6 +536,7 @@ HOST-SUFFIX,shandianpic.vip,DIRECT
 HOST-SUFFIX,share.feijipan.com,DIRECT
 HOST-SUFFIX,simages.lkkwip.cn,DIRECT
 HOST-SUFFIX,sjljsla.lkkwip.cn,DIRECT
+HOST-SUFFIX,slp261028.top,DIRECT
 HOST-SUFFIX,snapshots.xcdnpro.com,DIRECT
 HOST-SUFFIX,space.bilibili.com,DIRECT
 HOST-SUFFIX,speed.bookmarks.best,DIRECT
