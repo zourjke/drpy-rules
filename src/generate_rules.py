@@ -65,6 +65,29 @@ class RuleGenerator:
                 rules.append(line)
         return rules
 
+    def load_extra_direct(self) -> List[str]:
+        """读取手工直连域名（与 config.json 同目录的 extra_direct.txt，每行一个域名）
+
+        用途：运行时才能拿到的媒体/CDN 域名（源文件里不出现，自动提取扫不到），
+        强制并入直连段，且不受后续自动诊断结果覆盖。
+        """
+        path = self.config_path.parent / 'extra_direct.txt'
+        if not path.exists():
+            return []
+        out = []
+        for raw in path.read_text(encoding='utf-8').splitlines():
+            line = raw.strip()
+            if not line or line.startswith('#'):
+                continue
+            for sep in ('DOMAIN-SUFFIX,', 'DOMAIN,', 'HOST-SUFFIX,', 'host-suffix,'):
+                if line.startswith(sep):
+                    line = line.split(sep, 1)[1]
+                    break
+            line = line.split(',')[0].strip()
+            if line:
+                out.append(line)
+        return out
+
     @staticmethod
     def split_extra(rules: List[str]):
         """拆出域名类与其它类（IP-CIDR 等）补充规则"""
@@ -193,6 +216,16 @@ class RuleGenerator:
         if extra_others:
             print(f"[INFO] MRS 为 domain 行为，已跳过非域名补充规则: {', '.join(extra_others)}")
         
+        extra_direct = self.load_extra_direct()
+        if extra_direct:
+            added = []
+            for d in extra_direct:
+                if d not in domains['DIRECT'] and d not in domains['PROXY']:
+                    domains['DIRECT'].append(d)
+                    added.append(d)
+            domains['DIRECT'].sort()
+            print(f"[INFO] 手工直连域名: {len(extra_direct)} 条（本次新增 {len(added)} 条）")
+        
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
         # QuantumultX
@@ -293,6 +326,11 @@ RULE-SET,https://raw.githubusercontent.com/{self.config['github']['repo']}/main/
 - Surge / Shadowrocket、QuantumultX：原样输出并补 `,PROXY`
 - Clash：写入 `drpy-clash-payload.yaml`
 - ClashMi（`drpy-clash.mrs`）：仅支持域名类条目，`IP-CIDR` 等需在主配置里自行添加
+
+### 手工直连域名
+
+`extra_direct.txt`（与 config.json 同目录）每行一个域名，会被**强制并入直连段**（优先级最高，不受自动诊断结果覆盖）。
+用于「运行时才能拿到、源文件里不出现」的媒体/CDN 域名，例如播放地址里的分片域名。
 
 ## 📝 说明
 
