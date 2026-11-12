@@ -4,10 +4,10 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-11-12 04:08:48
-- **直连域名**: 312 个
-- **需要代理**: 75 个
-- **不可达（不生成分流）**: 41 个
+- **更新时间**: 2026-11-12 23:58:06
+- **直连域名**: 320 个
+- **需要代理**: 81 个
+- **不可达（不生成分流）**: 39 个
 - **手工补充**: 1 条（`extra_proxy.txt`）
 
 ## 🚀 使用方法
@@ -57,6 +57,11 @@ RULE-SET,https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-su
 - Surge / Shadowrocket、QuantumultX：原样输出并补 `,PROXY`
 - Clash：写入 `drpy-clash-payload.yaml`
 - ClashMi（`drpy-clash.mrs`）：仅支持域名类条目，`IP-CIDR` 等需在主配置里自行添加
+
+### 手工直连域名
+
+`extra_direct.txt`（与 config.json 同目录）每行一个域名，会被**强制并入直连段**（优先级最高，不受自动诊断结果覆盖）。
+用于「运行时才能拿到、源文件里不出现」的媒体/CDN 域名，例如播放地址里的分片域名。
 
 ## 📝 说明
 
