@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-13 01:23:59
-# 统计: DIRECT=649, PROXY=83
+# 更新时间: 2026-11-13 04:08:37
+# 统计: DIRECT=656, PROXY=80
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -8,7 +8,6 @@ HOST-SUFFIX,4hu.tv,PROXY
 HOST-SUFFIX,51cg1.com,PROXY
 HOST-SUFFIX,56vgj.tkxohouk.cc,PROXY
 HOST-SUFFIX,8se.me,PROXY
-HOST-SUFFIX,911tanhua.com,PROXY
 HOST-SUFFIX,91nt.com,PROXY
 HOST-SUFFIX,91porn.com,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
@@ -27,6 +26,7 @@ HOST-SUFFIX,chaturbate.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
+HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,h5.rykamuzw.ink,PROXY
 HOST-SUFFIX,hsck123.com,PROXY
 HOST-SUFFIX,hsex.icu,PROXY
@@ -39,7 +39,6 @@ HOST-SUFFIX,imgpublic.ycomesc.live,PROXY
 HOST-SUFFIX,iqqtv.net,PROXY
 HOST-SUFFIX,jable.tv,PROXY
 HOST-SUFFIX,javdb.com,PROXY
-HOST-SUFFIX,jptt.tv,PROXY
 HOST-SUFFIX,jsonbfq1.cszmys.com,PROXY
 HOST-SUFFIX,kanliao7.net,PROXY
 HOST-SUFFIX,kanliao7.org,PROXY
@@ -51,7 +50,6 @@ HOST-SUFFIX,pic.lzzypic.com,PROXY
 HOST-SUFFIX,raw.shorttv.online,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
-HOST-SUFFIX,sysu.bnmdquasi.cc,PROXY
 HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
 HOST-SUFFIX,upload.wikimedia.org,PROXY
@@ -79,7 +77,6 @@ HOST-SUFFIX,www.xvideos.com,PROXY
 HOST-SUFFIX,xchina.co,PROXY
 HOST-SUFFIX,xhamster.com,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
-HOST-SUFFIX,xjjkdfw4.sbs,PROXY
 HOST-SUFFIX,xqjzvcvt.top,PROXY
 HOST-SUFFIX,z9f8y.com,PROXY
 HOST-SUFFIX,zh.cam4.com,PROXY
@@ -119,12 +116,14 @@ HOST-SUFFIX,618041.xyz,DIRECT
 HOST-SUFFIX,618608.xyz,DIRECT
 HOST-SUFFIX,71us.tov7yi5pxg.cc,DIRECT
 HOST-SUFFIX,881wiketzwekhela.zztcaigou.com,DIRECT
+HOST-SUFFIX,911tanhua.com,DIRECT
 HOST-SUFFIX,911tanhua.net,DIRECT
 HOST-SUFFIX,91porn01.cc,DIRECT
 HOST-SUFFIX,a.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,ab.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,acs.youku.com,DIRECT
 HOST-SUFFIX,adult-tv-channels.com,DIRECT
+HOST-SUFFIX,agency.bjidvlyog.com,DIRECT
 HOST-SUFFIX,aigua.tv,DIRECT
 HOST-SUFFIX,aiimg.syyaann.com,DIRECT
 HOST-SUFFIX,aikanzy.com,DIRECT
@@ -175,8 +174,10 @@ HOST-SUFFIX,app.whjzjx.cn,DIRECT
 HOST-SUFFIX,aqsmimg1654.sbs,DIRECT
 HOST-SUFFIX,aqsmimg3459.sbs,DIRECT
 HOST-SUFFIX,aqsmimg4710.sbs,DIRECT
+HOST-SUFFIX,aqsmimg4711.sbs,DIRECT
 HOST-SUFFIX,asdqzz.lkkwip.cn,DIRECT
 HOST-SUFFIX,asmrpleasure.com,DIRECT
+HOST-SUFFIX,attack.bjidvlyog.com,DIRECT
 HOST-SUFFIX,audio.bookan.com.cn,DIRECT
 HOST-SUFFIX,b23.tv,DIRECT
 HOST-SUFFIX,badly.okttbipbu.cc,DIRECT
@@ -269,7 +270,6 @@ HOST-SUFFIX,gh-proxy.org,DIRECT
 HOST-SUFFIX,ghproxy.net,DIRECT
 HOST-SUFFIX,gimg0.baidu.com,DIRECT
 HOST-SUFFIX,gitee.com,DIRECT
-HOST-SUFFIX,github.com,DIRECT
 HOST-SUFFIX,h5.xxoo168.org,DIRECT
 HOST-SUFFIX,h5.xxoox96.org,DIRECT
 HOST-SUFFIX,hd.kuktxu.com,DIRECT
@@ -363,6 +363,7 @@ HOST-SUFFIX,jdforrepam.com,DIRECT
 HOST-SUFFIX,jlu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,jm92swf.s1002.xrea.com,DIRECT
 HOST-SUFFIX,jpg.jsy666.xyz,DIRECT
+HOST-SUFFIX,jptt.tv,DIRECT
 HOST-SUFFIX,jsnzkpg4.pages.dev,DIRECT
 HOST-SUFFIX,jsonxz.cszmys.com,DIRECT
 HOST-SUFFIX,jt.ximalaya.com,DIRECT
@@ -552,6 +553,7 @@ HOST-SUFFIX,surrit.com,DIRECT
 HOST-SUFFIX,svip.feifei-play.com,DIRECT
 HOST-SUFFIX,svip.ryiplay18.com,DIRECT
 HOST-SUFFIX,svip.ryplay14.com,DIRECT
+HOST-SUFFIX,sysu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,t0.97img.com,DIRECT
 HOST-SUFFIX,t27.cdn2020.com,DIRECT
 HOST-SUFFIX,t4.wnimg2.cfd,DIRECT
@@ -705,6 +707,7 @@ HOST-SUFFIX,www.youku.com,DIRECT
 HOST-SUFFIX,www.zpcxb.com,DIRECT
 HOST-SUFFIX,wx2.sinaimg.cn,DIRECT
 HOST-SUFFIX,wzzqlm.erbaiwulaoge.com,DIRECT
+HOST-SUFFIX,x-novel.com,DIRECT
 HOST-SUFFIX,x0j1b8o6e9l2b3.com,DIRECT
 HOST-SUFFIX,xbo.xn--fhqv92p.com,DIRECT
 HOST-SUFFIX,xbo.xn--kcrp02i.com,DIRECT
@@ -715,6 +718,7 @@ HOST-SUFFIX,xcrejtnwehla.korey0sh1.com,DIRECT
 HOST-SUFFIX,xifan-api-cn.youlishipin.com,DIRECT
 HOST-SUFFIX,xifan.heytapimage.com,DIRECT
 HOST-SUFFIX,xj001l5qv9.xjff7064bw.cc,DIRECT
+HOST-SUFFIX,xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,xjtv02.vip,DIRECT
 HOST-SUFFIX,xjtv03.vip,DIRECT
 HOST-SUFFIX,xjtv04.vip,DIRECT
