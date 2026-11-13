@@ -1,0 +1,1 @@
+drpy_direct: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-direct.mrs" }
