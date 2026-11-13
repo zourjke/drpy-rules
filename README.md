@@ -4,7 +4,7 @@
 
 ## 📊 统计信息
 
-- **更新时间**: 2026-11-13 04:08:37
+- **更新时间**: 2026-11-13 13:41:18
 - **直连域名**: 656 个
 - **需要代理**: 80 个
 - **不可达（不生成分流）**: 38 个
@@ -40,6 +40,22 @@ drpy_proxy: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/dr
 ```
 
 也可以直接引用仓库中的 `rules/drpy-clashmi.yaml` 片段。
+
+### Clash / ClashMi / Stash（直连侧，手机端必备）
+
+仓库同时发布**直连规则集**，手机端（ClashMi/Stash/Clash）必须引用它，
+否则源站 CDN 会落到 `MATCH` 兜底走代理 → 视频分片只剩 150~280 KB/s，必然卡顿：
+
+```yaml
+rule-providers:
+  drpy_direct: { <<: *Anchor_DN, url: "https://raw.githubusercontent.com/zourjke/drpy-rules/main/rules/drpy-direct.mrs" }
+
+rules:
+  - RULE-SET,drpy_direct,DIRECT     # 必须放在 MATCH / 兜底代理之前
+  - RULE-SET,drpy_proxy,PROXY
+```
+
+也可用普通 rule-provider 格式：`rules/drpy-clash-direct.yaml`（payload）。
 
 ### Surge / Shadowrocket
 
