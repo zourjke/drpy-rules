@@ -177,6 +177,50 @@ class RuleGenerator:
         source.unlink()
         return str(target)
     
+    def generate_clash_direct_payload(self, domains: Dict[str, List[str]]) -> str:
+        """生成「直连」payload（Clash 家族 rule-provider，direct 行为）"""
+        lines = [
+            "# drpy-node DIRECT (Clash/ClashMeta rule-provider)",
+            f"# Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+            f"# Counts: DIRECT={len(domains['DIRECT'])}",
+            "",
+            "payload:"
+        ]
+        for domain in domains['DIRECT']:
+            lines.append(f"  - DOMAIN-SUFFIX,{domain}")
+        return '\n'.join(lines) + '\n'
+
+    def generate_clash_mrs_direct(self, domains: Dict[str, List[str]]) -> str:
+        """把 DIRECT 域名集转成 MRS（Clash/Mihomo/Stash 可直接引用）"""
+        source = self.output_dir / 'drpy-direct-source.yaml'
+        target = self.output_dir / 'drpy-direct.mrs'
+        with open(source, 'w', encoding='utf-8') as f:
+            f.write('payload:\n')
+            for domain in domains['DIRECT']:
+                f.write(f'  - DOMAIN-SUFFIX,{domain}\n')
+        core = self.config.get('clash', {}).get('core', '/tmp/ShellCrash/CrashCore')
+        if not Path(core).exists():
+            raise RuntimeError(f'CrashCore 不存在: {core}')
+        result = subprocess.run(
+            [core, 'convert-ruleset', 'domain', 'yaml', str(source), str(target)],
+            capture_output=True, text=True, timeout=60
+        )
+        if result.returncode != 0 or not target.exists() or target.stat().st_size < 16:
+            raise RuntimeError(result.stderr.strip() or 'DIRECT MRS 转换失败')
+        with open(target, 'rb') as f:
+            if f.read(4) != b'\x28\xb5\x2f\xfd':
+                raise RuntimeError('DIRECT MRS 文件魔数校验失败')
+        source.unlink()
+        return str(target)
+
+    def generate_clashmi_snippet_direct(self) -> str:
+        """生成 ClashMi/Clash 的 DIRECT provider 引用片段"""
+        repo = self.config['github']['repo']
+        return (
+            'drpy_direct: { <<: *Anchor_DN, url: '
+            f'"https://raw.githubusercontent.com/{repo}/main/rules/drpy-direct.mrs" }}\n'
+        )
+
     def generate_surge(self, domains: Dict[str, List[str]],
                        extra: List[str] = None) -> str:
         """生成 Surge/Shadowrocket 规则"""
@@ -243,6 +287,14 @@ class RuleGenerator:
         print(f"[INFO] 已生成: {clash_file}")
         
         self.generate_clash_mrs(domains, extra_domains)
+        direct_payload = self.generate_clash_direct_payload(domains)
+        with open(self.output_dir / 'drpy-clash-direct.yaml', 'w', encoding='utf-8') as f:
+            f.write(direct_payload)
+        print(f"[INFO] 已生成: {self.output_dir / 'drpy-clash-direct.yaml'}")
+        self.generate_clash_mrs_direct(domains)
+        with open(self.output_dir / 'drpy-clashmi-direct.yaml', 'w', encoding='utf-8') as f:
+            f.write(self.generate_clashmi_snippet_direct())
+        print(f"[INFO] 已生成: {self.output_dir / 'drpy-clashmi-direct.yaml'}")
         clashmi_file = self.output_dir / 'drpy-clashmi.yaml'
         with open(clashmi_file, 'w', encoding='utf-8') as f:
             f.write(self.generate_clashmi_snippet())
@@ -309,6 +361,22 @@ drpy_proxy: {{ <<: *Anchor_DN, url: "https://raw.githubusercontent.com/{self.con
 ```
 
 也可以直接引用仓库中的 `rules/drpy-clashmi.yaml` 片段。
+
+### Clash / ClashMi / Stash（直连侧，手机端必备）
+
+仓库同时发布**直连规则集**，手机端（ClashMi/Stash/Clash）必须引用它，
+否则源站 CDN 会落到 `MATCH` 兜底走代理 → 视频分片只剩 150~280 KB/s，必然卡顿：
+
+```yaml
+rule-providers:
+  drpy_direct: {{ <<: *Anchor_DN, url: "https://raw.githubusercontent.com/{self.config['github']['repo']}/main/rules/drpy-direct.mrs" }}
+
+rules:
+  - RULE-SET,drpy_direct,DIRECT     # 必须放在 MATCH / 兜底代理之前
+  - RULE-SET,drpy_proxy,PROXY
+```
+
+也可用普通 rule-provider 格式：`rules/drpy-clash-direct.yaml`（payload）。
 
 ### Surge / Shadowrocket
 
