@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-15 00:07:43
-# Counts: DIRECT=665
+# Updated: 2026-11-15 04:08:34
+# Counts: DIRECT=677
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,4kzn.cc
   - DOMAIN-SUFFIX,525071.com
   - DOMAIN-SUFFIX,52soutong.com
+  - DOMAIN-SUFFIX,56vgj.tkxohouk.cc
   - DOMAIN-SUFFIX,5sing.kugou.com
   - DOMAIN-SUFFIX,618013.xyz
   - DOMAIN-SUFFIX,618041.xyz
@@ -46,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,ali2.a.kwimgs.com
   - DOMAIN-SUFFIX,alone.cmxzettb.com
   - DOMAIN-SUFFIX,alone.eeqvkpoh.cc
+  - DOMAIN-SUFFIX,alter.tkxohouk.cc
   - DOMAIN-SUFFIX,api-bc.wtzw.com
   - DOMAIN-SUFFIX,api-gw.wtzw.com
   - DOMAIN-SUFFIX,api-h5.uvod.tv
@@ -70,6 +72,8 @@ payload:
   - DOMAIN-SUFFIX,api.nn.ci
   - DOMAIN-SUFFIX,api.peppdsai.com
   - DOMAIN-SUFFIX,api.qlqwqexo.com
+  - DOMAIN-SUFFIX,api.rmedphk.com
+  - DOMAIN-SUFFIX,api.sorani.cc
   - DOMAIN-SUFFIX,api.tmdb.org
   - DOMAIN-SUFFIX,api.umygrx3.com
   - DOMAIN-SUFFIX,api.vuecloudrb.com
@@ -91,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,asdqzz.lkkwip.cn
   - DOMAIN-SUFFIX,asmrpleasure.com
   - DOMAIN-SUFFIX,assign.p2vbviehb.cc
+  - DOMAIN-SUFFIX,assure.tkxohouk.cc
   - DOMAIN-SUFFIX,attack.bjidvlyog.com
   - DOMAIN-SUFFIX,audio.bookan.com.cn
   - DOMAIN-SUFFIX,b23.tv
@@ -105,6 +110,8 @@ payload:
   - DOMAIN-SUFFIX,bizcommon.alicdn.com
   - DOMAIN-SUFFIX,bkimg.cdn.bcebos.com
   - DOMAIN-SUFFIX,blog.csdn.net
+  - DOMAIN-SUFFIX,board.p2vbviehb.cc
+  - DOMAIN-SUFFIX,broken.tkxohouk.cc
   - DOMAIN-SUFFIX,bts-image.xyzcdn.net
   - DOMAIN-SUFFIX,bunny-wp-pullzone-evkkaifpq7.b-cdn.net
   - DOMAIN-SUFFIX,bunny-wp-pullzone-vmsonbke3o.b-cdn.net
@@ -240,6 +247,7 @@ payload:
   - DOMAIN-SUFFIX,img.funshion.com
   - DOMAIN-SUFFIX,img.guangsuimage.com
   - DOMAIN-SUFFIX,img.htxapi.space
+  - DOMAIN-SUFFIX,img.icons8.com
   - DOMAIN-SUFFIX,img.jisuimage.com
   - DOMAIN-SUFFIX,img.liangzipic.com
   - DOMAIN-SUFFIX,img.lzipic.com
@@ -554,6 +562,7 @@ payload:
   - DOMAIN-SUFFIX,wsrv.nl
   - DOMAIN-SUFFIX,wuabeza.gyqspl.cn
   - DOMAIN-SUFFIX,ww.aituitu.com
+  - DOMAIN-SUFFIX,www.22a5.com
   - DOMAIN-SUFFIX,www.4kcz.com
   - DOMAIN-SUFFIX,www.4kvm.net
   - DOMAIN-SUFFIX,www.4kvms.org
@@ -598,6 +607,7 @@ payload:
   - DOMAIN-SUFFIX,www.mgnacg.com
   - DOMAIN-SUFFIX,www.mgtv.com
   - DOMAIN-SUFFIX,www.miguvideo.com
+  - DOMAIN-SUFFIX,www.mmtk2.com
   - DOMAIN-SUFFIX,www.mtyy8.com
   - DOMAIN-SUFFIX,www.ntmsxy.com
   - DOMAIN-SUFFIX,www.qimao.com
@@ -606,6 +616,7 @@ payload:
   - DOMAIN-SUFFIX,www.qsxy.top
   - DOMAIN-SUFFIX,www.quduwx.net
   - DOMAIN-SUFFIX,www.runjiaxcl.com
+  - DOMAIN-SUFFIX,www.sorani.net
   - DOMAIN-SUFFIX,www.sudugu.org
   - DOMAIN-SUFFIX,www.suduguu.com
   - DOMAIN-SUFFIX,www.tuxiaobei.com
@@ -661,6 +672,7 @@ payload:
   - DOMAIN-SUFFIX,ynztctv.com
   - DOMAIN-SUFFIX,yuan.dhuqh.com
   - DOMAIN-SUFFIX,yyaq12.hyoeiqyrcp.top
+  - DOMAIN-SUFFIX,zh.cam4.com
   - DOMAIN-SUFFIX,zh.stripchat.global
   - DOMAIN-SUFFIX,zh.stripol.com
   - DOMAIN-SUFFIX,zhsnust.lkkwip.cn
