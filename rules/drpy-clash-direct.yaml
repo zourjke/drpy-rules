@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-14 04:08:39
-# Counts: DIRECT=657
+# Updated: 2026-11-15 00:07:43
+# Counts: DIRECT=665
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -106,6 +106,8 @@ payload:
   - DOMAIN-SUFFIX,bkimg.cdn.bcebos.com
   - DOMAIN-SUFFIX,blog.csdn.net
   - DOMAIN-SUFFIX,bts-image.xyzcdn.net
+  - DOMAIN-SUFFIX,bunny-wp-pullzone-evkkaifpq7.b-cdn.net
+  - DOMAIN-SUFFIX,bunny-wp-pullzone-vmsonbke3o.b-cdn.net
   - DOMAIN-SUFFIX,bus.p2vbviehb.cc
   - DOMAIN-SUFFIX,c.y.qq.com
   - DOMAIN-SUFFIX,cam4-hls.xcdnpro.com
@@ -331,6 +333,8 @@ payload:
   - DOMAIN-SUFFIX,meirentu.club
   - DOMAIN-SUFFIX,meizi5.com
   - DOMAIN-SUFFIX,mmbiz.qpic.cn
+  - DOMAIN-SUFFIX,mmtk-batch-previews.b-cdn.net
+  - DOMAIN-SUFFIX,mmtk2.com
   - DOMAIN-SUFFIX,mobileso.bz.mgtv.com
   - DOMAIN-SUFFIX,mp.huya.com
   - DOMAIN-SUFFIX,mp4.pjrwfe.cn
@@ -628,6 +632,7 @@ payload:
   - DOMAIN-SUFFIX,xbo.xn--kcrp02i.com
   - DOMAIN-SUFFIX,xbo.xn--uw0as83a.com
   - DOMAIN-SUFFIX,xbo.xn--ypzw80d.com
+  - DOMAIN-SUFFIX,xbp866.com
   - DOMAIN-SUFFIX,xcpla1dkajewe.korey0sh1.com
   - DOMAIN-SUFFIX,xcrejtnwehla.korey0sh1.com
   - DOMAIN-SUFFIX,xifan-api-cn.youlishipin.com
@@ -647,6 +652,9 @@ payload:
   - DOMAIN-SUFFIX,xwang06.com
   - DOMAIN-SUFFIX,xxoox96.org
   - DOMAIN-SUFFIX,xyyimg.com
+  - DOMAIN-SUFFIX,xyzygif.com
+  - DOMAIN-SUFFIX,xyzym3u8.com
+  - DOMAIN-SUFFIX,xyzyts.com
   - DOMAIN-SUFFIX,y.gtimg.cn
   - DOMAIN-SUFFIX,y.qq.com
   - DOMAIN-SUFFIX,yidouge.com
