@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-14 04:08:39
-# 统计: DIRECT=657, PROXY=76
+# 更新时间: 2026-11-15 00:07:43
+# 统计: DIRECT=665, PROXY=76
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -187,6 +187,8 @@ HOST-SUFFIX,bizcommon.alicdn.com,DIRECT
 HOST-SUFFIX,bkimg.cdn.bcebos.com,DIRECT
 HOST-SUFFIX,blog.csdn.net,DIRECT
 HOST-SUFFIX,bts-image.xyzcdn.net,DIRECT
+HOST-SUFFIX,bunny-wp-pullzone-evkkaifpq7.b-cdn.net,DIRECT
+HOST-SUFFIX,bunny-wp-pullzone-vmsonbke3o.b-cdn.net,DIRECT
 HOST-SUFFIX,bus.p2vbviehb.cc,DIRECT
 HOST-SUFFIX,c.y.qq.com,DIRECT
 HOST-SUFFIX,cam4-hls.xcdnpro.com,DIRECT
@@ -412,6 +414,8 @@ HOST-SUFFIX,media-hls.sacfedge.com,DIRECT
 HOST-SUFFIX,meirentu.club,DIRECT
 HOST-SUFFIX,meizi5.com,DIRECT
 HOST-SUFFIX,mmbiz.qpic.cn,DIRECT
+HOST-SUFFIX,mmtk-batch-previews.b-cdn.net,DIRECT
+HOST-SUFFIX,mmtk2.com,DIRECT
 HOST-SUFFIX,mobileso.bz.mgtv.com,DIRECT
 HOST-SUFFIX,mp.huya.com,DIRECT
 HOST-SUFFIX,mp4.pjrwfe.cn,DIRECT
@@ -709,6 +713,7 @@ HOST-SUFFIX,xbo.xn--fhqv92p.com,DIRECT
 HOST-SUFFIX,xbo.xn--kcrp02i.com,DIRECT
 HOST-SUFFIX,xbo.xn--uw0as83a.com,DIRECT
 HOST-SUFFIX,xbo.xn--ypzw80d.com,DIRECT
+HOST-SUFFIX,xbp866.com,DIRECT
 HOST-SUFFIX,xcpla1dkajewe.korey0sh1.com,DIRECT
 HOST-SUFFIX,xcrejtnwehla.korey0sh1.com,DIRECT
 HOST-SUFFIX,xifan-api-cn.youlishipin.com,DIRECT
@@ -728,6 +733,9 @@ HOST-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com,DIRECT
 HOST-SUFFIX,xwang06.com,DIRECT
 HOST-SUFFIX,xxoox96.org,DIRECT
 HOST-SUFFIX,xyyimg.com,DIRECT
+HOST-SUFFIX,xyzygif.com,DIRECT
+HOST-SUFFIX,xyzym3u8.com,DIRECT
+HOST-SUFFIX,xyzyts.com,DIRECT
 HOST-SUFFIX,y.gtimg.cn,DIRECT
 HOST-SUFFIX,y.qq.com,DIRECT
 HOST-SUFFIX,yidouge.com,DIRECT
