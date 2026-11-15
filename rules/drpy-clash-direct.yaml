@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-15 04:08:34
-# Counts: DIRECT=677
+# Updated: 2026-11-16 04:08:43
+# Counts: DIRECT=669
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,4kzn.cc
   - DOMAIN-SUFFIX,525071.com
   - DOMAIN-SUFFIX,52soutong.com
-  - DOMAIN-SUFFIX,56vgj.tkxohouk.cc
   - DOMAIN-SUFFIX,5sing.kugou.com
   - DOMAIN-SUFFIX,618013.xyz
   - DOMAIN-SUFFIX,618041.xyz
@@ -47,14 +46,12 @@ payload:
   - DOMAIN-SUFFIX,ali2.a.kwimgs.com
   - DOMAIN-SUFFIX,alone.cmxzettb.com
   - DOMAIN-SUFFIX,alone.eeqvkpoh.cc
-  - DOMAIN-SUFFIX,alter.tkxohouk.cc
   - DOMAIN-SUFFIX,api-bc.wtzw.com
   - DOMAIN-SUFFIX,api-gw.wtzw.com
   - DOMAIN-SUFFIX,api-h5.uvod.tv
   - DOMAIN-SUFFIX,api-ks.wtzw.com
   - DOMAIN-SUFFIX,api-read.qmplaylet.com
   - DOMAIN-SUFFIX,api-store.qmplaylet.com
-  - DOMAIN-SUFFIX,api.6a7nnf7.com
   - DOMAIN-SUFFIX,api.aomybfqt.com
   - DOMAIN-SUFFIX,api.asmrpleasure.com
   - DOMAIN-SUFFIX,api.bilibili.com
@@ -95,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,asdqzz.lkkwip.cn
   - DOMAIN-SUFFIX,asmrpleasure.com
   - DOMAIN-SUFFIX,assign.p2vbviehb.cc
-  - DOMAIN-SUFFIX,assure.tkxohouk.cc
   - DOMAIN-SUFFIX,attack.bjidvlyog.com
   - DOMAIN-SUFFIX,audio.bookan.com.cn
   - DOMAIN-SUFFIX,b23.tv
@@ -111,7 +107,6 @@ payload:
   - DOMAIN-SUFFIX,bkimg.cdn.bcebos.com
   - DOMAIN-SUFFIX,blog.csdn.net
   - DOMAIN-SUFFIX,board.p2vbviehb.cc
-  - DOMAIN-SUFFIX,broken.tkxohouk.cc
   - DOMAIN-SUFFIX,bts-image.xyzcdn.net
   - DOMAIN-SUFFIX,bunny-wp-pullzone-evkkaifpq7.b-cdn.net
   - DOMAIN-SUFFIX,bunny-wp-pullzone-vmsonbke3o.b-cdn.net
@@ -247,7 +242,6 @@ payload:
   - DOMAIN-SUFFIX,img.funshion.com
   - DOMAIN-SUFFIX,img.guangsuimage.com
   - DOMAIN-SUFFIX,img.htxapi.space
-  - DOMAIN-SUFFIX,img.icons8.com
   - DOMAIN-SUFFIX,img.jisuimage.com
   - DOMAIN-SUFFIX,img.liangzipic.com
   - DOMAIN-SUFFIX,img.lzipic.com
@@ -637,7 +631,6 @@ payload:
   - DOMAIN-SUFFIX,www.zpcxb.com
   - DOMAIN-SUFFIX,wx2.sinaimg.cn
   - DOMAIN-SUFFIX,wzzqlm.erbaiwulaoge.com
-  - DOMAIN-SUFFIX,x-novel.com
   - DOMAIN-SUFFIX,x0j1b8o6e9l2b3.com
   - DOMAIN-SUFFIX,xbo.xn--fhqv92p.com
   - DOMAIN-SUFFIX,xbo.xn--kcrp02i.com
@@ -672,7 +665,6 @@ payload:
   - DOMAIN-SUFFIX,ynztctv.com
   - DOMAIN-SUFFIX,yuan.dhuqh.com
   - DOMAIN-SUFFIX,yyaq12.hyoeiqyrcp.top
-  - DOMAIN-SUFFIX,zh.cam4.com
   - DOMAIN-SUFFIX,zh.stripchat.global
   - DOMAIN-SUFFIX,zh.stripol.com
   - DOMAIN-SUFFIX,zhsnust.lkkwip.cn
