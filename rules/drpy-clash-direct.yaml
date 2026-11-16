@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-16 04:08:43
-# Counts: DIRECT=669
+# Updated: 2026-11-17 04:08:53
+# Counts: DIRECT=674
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,881wiketzwekhela.zztcaigou.com
   - DOMAIN-SUFFIX,911tanhua.com
   - DOMAIN-SUFFIX,911tanhua.net
-  - DOMAIN-SUFFIX,91porn01.cc
   - DOMAIN-SUFFIX,a.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,ab.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,acs.youku.com
@@ -52,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,api-ks.wtzw.com
   - DOMAIN-SUFFIX,api-read.qmplaylet.com
   - DOMAIN-SUFFIX,api-store.qmplaylet.com
+  - DOMAIN-SUFFIX,api.6a7nnf7.com
   - DOMAIN-SUFFIX,api.aomybfqt.com
   - DOMAIN-SUFFIX,api.asmrpleasure.com
   - DOMAIN-SUFFIX,api.bilibili.com
@@ -79,7 +79,9 @@ payload:
   - DOMAIN-SUFFIX,api.xinlangapi.com
   - DOMAIN-SUFFIX,api.yujn.cn
   - DOMAIN-SUFFIX,api1.cszmys.com
+  - DOMAIN-SUFFIX,api3-normal-sinfonlinea.fqnovel.com
   - DOMAIN-SUFFIX,api5-hl.qishui.com
+  - DOMAIN-SUFFIX,api5-normal-sinfonlinea.fqnovel.com
   - DOMAIN-SUFFIX,api5-normal-sinfonlineb.fqnovel.com
   - DOMAIN-SUFFIX,apidd.spthgb.com
   - DOMAIN-SUFFIX,apinew.uozvr.com
@@ -242,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,img.funshion.com
   - DOMAIN-SUFFIX,img.guangsuimage.com
   - DOMAIN-SUFFIX,img.htxapi.space
+  - DOMAIN-SUFFIX,img.icons8.com
   - DOMAIN-SUFFIX,img.jisuimage.com
   - DOMAIN-SUFFIX,img.liangzipic.com
   - DOMAIN-SUFFIX,img.lzipic.com
@@ -274,7 +277,6 @@ payload:
   - DOMAIN-SUFFIX,iqqah.com
   - DOMAIN-SUFFIX,is1-ssl.mzstatic.com
   - DOMAIN-SUFFIX,j741f6c110b3cf.xyz
-  - DOMAIN-SUFFIX,j818754ac1fdc8.xyz
   - DOMAIN-SUFFIX,j8789198fa66b8.xyz
   - DOMAIN-SUFFIX,jav.place
   - DOMAIN-SUFFIX,javplayer.cc
@@ -308,6 +310,7 @@ payload:
   - DOMAIN-SUFFIX,lk1.supremejav.com
   - DOMAIN-SUFFIX,llsp2.洛阳it商城.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log5-applog-lf.fqnovel.com
   - DOMAIN-SUFFIX,logo2.babyfirst.cc
   - DOMAIN-SUFFIX,long92.org
   - DOMAIN-SUFFIX,m.360buyimg.com
@@ -602,6 +605,7 @@ payload:
   - DOMAIN-SUFFIX,www.mgtv.com
   - DOMAIN-SUFFIX,www.miguvideo.com
   - DOMAIN-SUFFIX,www.mmtk2.com
+  - DOMAIN-SUFFIX,www.mqtv.cc
   - DOMAIN-SUFFIX,www.mtyy8.com
   - DOMAIN-SUFFIX,www.ntmsxy.com
   - DOMAIN-SUFFIX,www.qimao.com
@@ -631,6 +635,7 @@ payload:
   - DOMAIN-SUFFIX,www.zpcxb.com
   - DOMAIN-SUFFIX,wx2.sinaimg.cn
   - DOMAIN-SUFFIX,wzzqlm.erbaiwulaoge.com
+  - DOMAIN-SUFFIX,x-novel.com
   - DOMAIN-SUFFIX,x0j1b8o6e9l2b3.com
   - DOMAIN-SUFFIX,xbo.xn--fhqv92p.com
   - DOMAIN-SUFFIX,xbo.xn--kcrp02i.com
