@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-17 20:02:05
-# Counts: DIRECT=678
+# Updated: 2026-11-18 04:08:13
+# Counts: DIRECT=676
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -75,7 +75,6 @@ payload:
   - DOMAIN-SUFFIX,api.umygrx3.com
   - DOMAIN-SUFFIX,api.vuecloudrb.com
   - DOMAIN-SUFFIX,api.w32z7vtd.com
-  - DOMAIN-SUFFIX,api.wjbwapi.cc
   - DOMAIN-SUFFIX,api.xinlangapi.com
   - DOMAIN-SUFFIX,api.yujn.cn
   - DOMAIN-SUFFIX,api1.cszmys.com
@@ -212,7 +211,6 @@ payload:
   - DOMAIN-SUFFIX,hsck.net
   - DOMAIN-SUFFIX,hsck.tv
   - DOMAIN-SUFFIX,huakui.com
-  - DOMAIN-SUFFIX,huangguoai.com
   - DOMAIN-SUFFIX,huangguoai.me
   - DOMAIN-SUFFIX,huawei-baidu-alibaba.henxihuan-ma.top
   - DOMAIN-SUFFIX,huyaimg.msstatic.com
@@ -280,6 +278,7 @@ payload:
   - DOMAIN-SUFFIX,iqqah.com
   - DOMAIN-SUFFIX,is1-ssl.mzstatic.com
   - DOMAIN-SUFFIX,j741f6c110b3cf.xyz
+  - DOMAIN-SUFFIX,j818754ac1fdc8.xyz
   - DOMAIN-SUFFIX,j8789198fa66b8.xyz
   - DOMAIN-SUFFIX,jav.place
   - DOMAIN-SUFFIX,javplayer.cc
@@ -494,7 +493,6 @@ payload:
   - DOMAIN-SUFFIX,thumb.live.mmcdn.com
   - DOMAIN-SUFFIX,thumbs-gcore.xvideos-cdn.com
   - DOMAIN-SUFFIX,thumbs.externulls.com
-  - DOMAIN-SUFFIX,tju.bnmdquasi.cc
   - DOMAIN-SUFFIX,tp.spfcas.com
   - DOMAIN-SUFFIX,ts10.hj260302818.top
   - DOMAIN-SUFFIX,tuer.justpic01pt.com
