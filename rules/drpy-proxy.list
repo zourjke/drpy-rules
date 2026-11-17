@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-17 04:08:53
-# 统计: DIRECT=674, PROXY=75
+# 更新时间: 2026-11-17 20:02:05
+# 统计: DIRECT=678, PROXY=75
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -223,6 +223,7 @@ HOST-SUFFIX,cllcfqlhyl.tpym263.cc,DIRECT
 HOST-SUFFIX,cmsyt.lyyytv.cn,DIRECT
 HOST-SUFFIX,cn.dzmanga.com,DIRECT
 HOST-SUFFIX,cors.eu.org,DIRECT
+HOST-SUFFIX,czskhb.com,DIRECT
 HOST-SUFFIX,d12m928oe7qtlf.cloudfront.net,DIRECT
 HOST-SUFFIX,d2huxeowqcrhxe.cloudfront.net,DIRECT
 HOST-SUFFIX,d2jgz4wrcczusu.cloudfront.net,DIRECT
@@ -234,6 +235,7 @@ HOST-SUFFIX,d3ea5bf3mxqaxz.cloudfront.net,DIRECT
 HOST-SUFFIX,d3w21k5akureh7.cloudfront.net,DIRECT
 HOST-SUFFIX,da8ttmrfqqhqf.cloudfront.net,DIRECT
 HOST-SUFFIX,dc.bz.mgtv.com,DIRECT
+HOST-SUFFIX,dcjrsb.com,DIRECT
 HOST-SUFFIX,dd-static.jd.com,DIRECT
 HOST-SUFFIX,delivery.douyinpaly.com,DIRECT
 HOST-SUFFIX,desirewf.cc,DIRECT
@@ -256,6 +258,7 @@ HOST-SUFFIX,edge-hls.sacfedge.com,DIRECT
 HOST-SUFFIX,edge8-lax.live.mmcdn.com,DIRECT
 HOST-SUFFIX,edge9-lax.live.mmcdn.com,DIRECT
 HOST-SUFFIX,ei.phncdn.com,DIRECT
+HOST-SUFFIX,eldtbz.com,DIRECT
 HOST-SUFFIX,eliteres.fanruan.com,DIRECT
 HOST-SUFFIX,eu7tu.shuma5588.com,DIRECT
 HOST-SUFFIX,fashpi.asmr-eu.fyi,DIRECT
@@ -372,6 +375,7 @@ HOST-SUFFIX,jxsnd2.vip,DIRECT
 HOST-SUFFIX,jying.top,DIRECT
 HOST-SUFFIX,k1.huolient.com,DIRECT
 HOST-SUFFIX,kfsoahubdsjson.qxdlawyer.com,DIRECT
+HOST-SUFFIX,kgjci.com,DIRECT
 HOST-SUFFIX,kjjsaas-sh.oss-cn-shanghai.aliyuncs.com,DIRECT
 HOST-SUFFIX,krwwy.com,DIRECT
 HOST-SUFFIX,kyyresali.kkyd.cn,DIRECT
