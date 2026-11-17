@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-17 04:08:53
-# Counts: DIRECT=674
+# Updated: 2026-11-17 20:02:05
+# Counts: DIRECT=678
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -143,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,cmsyt.lyyytv.cn
   - DOMAIN-SUFFIX,cn.dzmanga.com
   - DOMAIN-SUFFIX,cors.eu.org
+  - DOMAIN-SUFFIX,czskhb.com
   - DOMAIN-SUFFIX,d12m928oe7qtlf.cloudfront.net
   - DOMAIN-SUFFIX,d2huxeowqcrhxe.cloudfront.net
   - DOMAIN-SUFFIX,d2jgz4wrcczusu.cloudfront.net
@@ -154,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,d3w21k5akureh7.cloudfront.net
   - DOMAIN-SUFFIX,da8ttmrfqqhqf.cloudfront.net
   - DOMAIN-SUFFIX,dc.bz.mgtv.com
+  - DOMAIN-SUFFIX,dcjrsb.com
   - DOMAIN-SUFFIX,dd-static.jd.com
   - DOMAIN-SUFFIX,delivery.douyinpaly.com
   - DOMAIN-SUFFIX,desirewf.cc
@@ -176,6 +178,7 @@ payload:
   - DOMAIN-SUFFIX,edge8-lax.live.mmcdn.com
   - DOMAIN-SUFFIX,edge9-lax.live.mmcdn.com
   - DOMAIN-SUFFIX,ei.phncdn.com
+  - DOMAIN-SUFFIX,eldtbz.com
   - DOMAIN-SUFFIX,eliteres.fanruan.com
   - DOMAIN-SUFFIX,eu7tu.shuma5588.com
   - DOMAIN-SUFFIX,fashpi.asmr-eu.fyi
@@ -292,6 +295,7 @@ payload:
   - DOMAIN-SUFFIX,jying.top
   - DOMAIN-SUFFIX,k1.huolient.com
   - DOMAIN-SUFFIX,kfsoahubdsjson.qxdlawyer.com
+  - DOMAIN-SUFFIX,kgjci.com
   - DOMAIN-SUFFIX,kjjsaas-sh.oss-cn-shanghai.aliyuncs.com
   - DOMAIN-SUFFIX,krwwy.com
   - DOMAIN-SUFFIX,kyyresali.kkyd.cn
