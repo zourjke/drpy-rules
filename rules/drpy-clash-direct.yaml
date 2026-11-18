@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-18 04:08:13
-# Counts: DIRECT=676
+# Updated: 2026-11-19 04:09:13
+# Counts: DIRECT=678
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,618041.xyz
   - DOMAIN-SUFFIX,618608.xyz
   - DOMAIN-SUFFIX,71us.tov7yi5pxg.cc
+  - DOMAIN-SUFFIX,7iwopvf.fz4qivnf.work
   - DOMAIN-SUFFIX,881wiketzwekhela.zztcaigou.com
   - DOMAIN-SUFFIX,911tanhua.com
   - DOMAIN-SUFFIX,911tanhua.net
@@ -51,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,api-ks.wtzw.com
   - DOMAIN-SUFFIX,api-read.qmplaylet.com
   - DOMAIN-SUFFIX,api-store.qmplaylet.com
-  - DOMAIN-SUFFIX,api.6a7nnf7.com
   - DOMAIN-SUFFIX,api.aomybfqt.com
   - DOMAIN-SUFFIX,api.asmrpleasure.com
   - DOMAIN-SUFFIX,api.bilibili.com
@@ -75,7 +75,7 @@ payload:
   - DOMAIN-SUFFIX,api.umygrx3.com
   - DOMAIN-SUFFIX,api.vuecloudrb.com
   - DOMAIN-SUFFIX,api.w32z7vtd.com
-  - DOMAIN-SUFFIX,api.xinlangapi.com
+  - DOMAIN-SUFFIX,api.wjbwapi.cc
   - DOMAIN-SUFFIX,api.yujn.cn
   - DOMAIN-SUFFIX,api1.cszmys.com
   - DOMAIN-SUFFIX,api3-normal-sinfonlinea.fqnovel.com
@@ -144,6 +144,7 @@ payload:
   - DOMAIN-SUFFIX,cors.eu.org
   - DOMAIN-SUFFIX,czskhb.com
   - DOMAIN-SUFFIX,d12m928oe7qtlf.cloudfront.net
+  - DOMAIN-SUFFIX,d2g44ha76f4f11.cloudfront.net
   - DOMAIN-SUFFIX,d2huxeowqcrhxe.cloudfront.net
   - DOMAIN-SUFFIX,d2jgz4wrcczusu.cloudfront.net
   - DOMAIN-SUFFIX,d2tw9uw5rogvdw.cloudfront.net
@@ -176,6 +177,7 @@ payload:
   - DOMAIN-SUFFIX,edge-hls.sacfedge.com
   - DOMAIN-SUFFIX,edge8-lax.live.mmcdn.com
   - DOMAIN-SUFFIX,edge9-lax.live.mmcdn.com
+  - DOMAIN-SUFFIX,ehx0rp8b3h56.dfgwsx.com
   - DOMAIN-SUFFIX,ei.phncdn.com
   - DOMAIN-SUFFIX,eldtbz.com
   - DOMAIN-SUFFIX,eliteres.fanruan.com
@@ -221,6 +223,7 @@ payload:
   - DOMAIN-SUFFIX,i.tuiimg.net
   - DOMAIN-SUFFIX,i0.hdslb.com
   - DOMAIN-SUFFIX,i2.hdslb.com
+  - DOMAIN-SUFFIX,i4rr0ru.5jzzq2d8.work
   - DOMAIN-SUFFIX,igtcqqindd4.icu
   - DOMAIN-SUFFIX,image-70559.picnjc.qpic.cn
   - DOMAIN-SUFFIX,image.baidu.com
@@ -274,7 +277,6 @@ payload:
   - DOMAIN-SUFFIX,imgs.xiurenys.com
   - DOMAIN-SUFFIX,inews.gtimg.com
   - DOMAIN-SUFFIX,ipajx0.cc
-  - DOMAIN-SUFFIX,iqqab.com
   - DOMAIN-SUFFIX,iqqah.com
   - DOMAIN-SUFFIX,is1-ssl.mzstatic.com
   - DOMAIN-SUFFIX,j741f6c110b3cf.xyz
@@ -444,6 +446,7 @@ payload:
   - DOMAIN-SUFFIX,rpic.douyucdn.cn
   - DOMAIN-SUFFIX,rs2sts.pjrwfe.cn
   - DOMAIN-SUFFIX,rsc.cdn77.org
+  - DOMAIN-SUFFIX,rybni23.2xiafocn.work
   - DOMAIN-SUFFIX,rysp.tv
   - DOMAIN-SUFFIX,s.oxax.tv
   - DOMAIN-SUFFIX,s.tmimgcdn.com
@@ -493,6 +496,7 @@ payload:
   - DOMAIN-SUFFIX,thumb.live.mmcdn.com
   - DOMAIN-SUFFIX,thumbs-gcore.xvideos-cdn.com
   - DOMAIN-SUFFIX,thumbs.externulls.com
+  - DOMAIN-SUFFIX,tju.bnmdquasi.cc
   - DOMAIN-SUFFIX,tp.spfcas.com
   - DOMAIN-SUFFIX,ts10.hj260302818.top
   - DOMAIN-SUFFIX,tuer.justpic01pt.com
@@ -582,7 +586,6 @@ payload:
   - DOMAIN-SUFFIX,www.douyu.com
   - DOMAIN-SUFFIX,www.dsd900.com
   - DOMAIN-SUFFIX,www.dsd900.lol
-  - DOMAIN-SUFFIX,www.dycg66.com
   - DOMAIN-SUFFIX,www.dyg123.net
   - DOMAIN-SUFFIX,www.free4kporn.com
   - DOMAIN-SUFFIX,www.fullhd.to
@@ -637,7 +640,6 @@ payload:
   - DOMAIN-SUFFIX,www.zpcxb.com
   - DOMAIN-SUFFIX,wx2.sinaimg.cn
   - DOMAIN-SUFFIX,wzzqlm.erbaiwulaoge.com
-  - DOMAIN-SUFFIX,x-novel.com
   - DOMAIN-SUFFIX,x0j1b8o6e9l2b3.com
   - DOMAIN-SUFFIX,xbo.xn--fhqv92p.com
   - DOMAIN-SUFFIX,xbo.xn--kcrp02i.com
