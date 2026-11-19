@@ -1,5 +1,5 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-19 04:09:13
+# Updated: 2026-11-20 04:09:10
 # Counts: DIRECT=678
 
 payload:
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,4kzn.cc
   - DOMAIN-SUFFIX,525071.com
   - DOMAIN-SUFFIX,52soutong.com
+  - DOMAIN-SUFFIX,56vgj.tkxohouk.cc
   - DOMAIN-SUFFIX,5sing.kugou.com
   - DOMAIN-SUFFIX,618013.xyz
   - DOMAIN-SUFFIX,618041.xyz
@@ -52,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,api-ks.wtzw.com
   - DOMAIN-SUFFIX,api-read.qmplaylet.com
   - DOMAIN-SUFFIX,api-store.qmplaylet.com
+  - DOMAIN-SUFFIX,api.6a7nnf7.com
   - DOMAIN-SUFFIX,api.aomybfqt.com
   - DOMAIN-SUFFIX,api.asmrpleasure.com
   - DOMAIN-SUFFIX,api.bilibili.com
@@ -438,7 +440,6 @@ payload:
   - DOMAIN-SUFFIX,q9.itc.cn
   - DOMAIN-SUFFIX,qiniu.rongjuwh.cn
   - DOMAIN-SUFFIX,qw.oolrvd.cn
-  - DOMAIN-SUFFIX,r0hiexcmqu1o.cc
   - DOMAIN-SUFFIX,res1.ubestkid.com
   - DOMAIN-SUFFIX,resource-cdn.tuxiaobei.com
   - DOMAIN-SUFFIX,resvd.ubestkid.com
@@ -566,7 +567,6 @@ payload:
   - DOMAIN-SUFFIX,wuabeza.gyqspl.cn
   - DOMAIN-SUFFIX,ww.aituitu.com
   - DOMAIN-SUFFIX,www.22a5.com
-  - DOMAIN-SUFFIX,www.4kcz.com
   - DOMAIN-SUFFIX,www.4kvm.net
   - DOMAIN-SUFFIX,www.4kvms.org
   - DOMAIN-SUFFIX,www.51lm.org
@@ -640,6 +640,7 @@ payload:
   - DOMAIN-SUFFIX,www.zpcxb.com
   - DOMAIN-SUFFIX,wx2.sinaimg.cn
   - DOMAIN-SUFFIX,wzzqlm.erbaiwulaoge.com
+  - DOMAIN-SUFFIX,x-novel.com
   - DOMAIN-SUFFIX,x0j1b8o6e9l2b3.com
   - DOMAIN-SUFFIX,xbo.xn--fhqv92p.com
   - DOMAIN-SUFFIX,xbo.xn--kcrp02i.com
@@ -659,7 +660,6 @@ payload:
   - DOMAIN-SUFFIX,xmhk.7wzx9.com
   - DOMAIN-SUFFIX,xmu.ezgdtehh.com
   - DOMAIN-SUFFIX,xmu.gpcqqmsof.cc
-  - DOMAIN-SUFFIX,xqjzvcvt.top
   - DOMAIN-SUFFIX,xsayang.fun
   - DOMAIN-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com
   - DOMAIN-SUFFIX,xwang06.com
