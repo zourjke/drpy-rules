@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-20 04:09:10
-# 统计: DIRECT=678, PROXY=82
+# 更新时间: 2026-11-21 04:09:18
+# 统计: DIRECT=681, PROXY=79
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -13,15 +13,11 @@ HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,ai.dramarush.tv,PROXY
-HOST-SUFFIX,alter.tkxohouk.cc,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.xinlangapi.com,PROXY
-HOST-SUFFIX,assure.tkxohouk.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
-HOST-SUFFIX,broken.tkxohouk.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -37,6 +33,7 @@ HOST-SUFFIX,img.lzzyimg.com,PROXY
 HOST-SUFFIX,imgpublic.ycomesc.live,PROXY
 HOST-SUFFIX,iqqab.com,PROXY
 HOST-SUFFIX,iqqtv.net,PROXY
+HOST-SUFFIX,j818754ac1fdc8.xyz,PROXY
 HOST-SUFFIX,jable.tv,PROXY
 HOST-SUFFIX,javdb.com,PROXY
 HOST-SUFFIX,jsonbfq1.cszmys.com,PROXY
@@ -47,7 +44,6 @@ HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
 HOST-SUFFIX,personalmv.com,PROXY
 HOST-SUFFIX,pic.lzzypic.com,PROXY
-HOST-SUFFIX,r0hiexcmqu1o.cc,PROXY
 HOST-SUFFIX,raw.shorttv.online,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
@@ -59,6 +55,7 @@ HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
+HOST-SUFFIX,www.4kcz.com,PROXY
 HOST-SUFFIX,www.51papaya.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
@@ -112,7 +109,6 @@ HOST-SUFFIX,4img.mgtv.com,DIRECT
 HOST-SUFFIX,4kzn.cc,DIRECT
 HOST-SUFFIX,525071.com,DIRECT
 HOST-SUFFIX,52soutong.com,DIRECT
-HOST-SUFFIX,56vgj.tkxohouk.cc,DIRECT
 HOST-SUFFIX,5sing.kugou.com,DIRECT
 HOST-SUFFIX,618013.xyz,DIRECT
 HOST-SUFFIX,618041.xyz,DIRECT
@@ -134,6 +130,7 @@ HOST-SUFFIX,ali-img.kaiyanapp.com,DIRECT
 HOST-SUFFIX,ali2.a.kwimgs.com,DIRECT
 HOST-SUFFIX,alone.cmxzettb.com,DIRECT
 HOST-SUFFIX,alone.eeqvkpoh.cc,DIRECT
+HOST-SUFFIX,alter.tkxohouk.cc,DIRECT
 HOST-SUFFIX,api-bc.wtzw.com,DIRECT
 HOST-SUFFIX,api-gw.wtzw.com,DIRECT
 HOST-SUFFIX,api-h5.uvod.tv,DIRECT
@@ -182,6 +179,7 @@ HOST-SUFFIX,aqsmimg4711.sbs,DIRECT
 HOST-SUFFIX,asdqzz.lkkwip.cn,DIRECT
 HOST-SUFFIX,asmrpleasure.com,DIRECT
 HOST-SUFFIX,assign.p2vbviehb.cc,DIRECT
+HOST-SUFFIX,assure.tkxohouk.cc,DIRECT
 HOST-SUFFIX,attack.bjidvlyog.com,DIRECT
 HOST-SUFFIX,audio.bookan.com.cn,DIRECT
 HOST-SUFFIX,b23.tv,DIRECT
@@ -197,6 +195,7 @@ HOST-SUFFIX,bizcommon.alicdn.com,DIRECT
 HOST-SUFFIX,bkimg.cdn.bcebos.com,DIRECT
 HOST-SUFFIX,blog.csdn.net,DIRECT
 HOST-SUFFIX,board.p2vbviehb.cc,DIRECT
+HOST-SUFFIX,broken.tkxohouk.cc,DIRECT
 HOST-SUFFIX,bts-image.xyzcdn.net,DIRECT
 HOST-SUFFIX,bunny-wp-pullzone-evkkaifpq7.b-cdn.net,DIRECT
 HOST-SUFFIX,bunny-wp-pullzone-vmsonbke3o.b-cdn.net,DIRECT
@@ -369,7 +368,6 @@ HOST-SUFFIX,ipajx0.cc,DIRECT
 HOST-SUFFIX,iqqah.com,DIRECT
 HOST-SUFFIX,is1-ssl.mzstatic.com,DIRECT
 HOST-SUFFIX,j741f6c110b3cf.xyz,DIRECT
-HOST-SUFFIX,j818754ac1fdc8.xyz,DIRECT
 HOST-SUFFIX,j8789198fa66b8.xyz,DIRECT
 HOST-SUFFIX,jav.place,DIRECT
 HOST-SUFFIX,javplayer.cc,DIRECT
@@ -527,6 +525,7 @@ HOST-SUFFIX,q7.itc.cn,DIRECT
 HOST-SUFFIX,q9.itc.cn,DIRECT
 HOST-SUFFIX,qiniu.rongjuwh.cn,DIRECT
 HOST-SUFFIX,qw.oolrvd.cn,DIRECT
+HOST-SUFFIX,r0hiexcmqu1o.cc,DIRECT
 HOST-SUFFIX,res1.ubestkid.com,DIRECT
 HOST-SUFFIX,resource-cdn.tuxiaobei.com,DIRECT
 HOST-SUFFIX,resvd.ubestkid.com,DIRECT
@@ -747,6 +746,7 @@ HOST-SUFFIX,xl.xltupian.com,DIRECT
 HOST-SUFFIX,xmhk.7wzx9.com,DIRECT
 HOST-SUFFIX,xmu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,xmu.gpcqqmsof.cc,DIRECT
+HOST-SUFFIX,xqjzvcvt.top,DIRECT
 HOST-SUFFIX,xsayang.fun,DIRECT
 HOST-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com,DIRECT
 HOST-SUFFIX,xwang06.com,DIRECT
