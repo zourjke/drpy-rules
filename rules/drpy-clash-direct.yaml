@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-21 04:09:18
-# Counts: DIRECT=681
+# Updated: 2026-11-22 04:08:52
+# Counts: DIRECT=679
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -25,11 +25,11 @@ payload:
   - DOMAIN-SUFFIX,4kzn.cc
   - DOMAIN-SUFFIX,525071.com
   - DOMAIN-SUFFIX,52soutong.com
+  - DOMAIN-SUFFIX,56vgj.tkxohouk.cc
   - DOMAIN-SUFFIX,5sing.kugou.com
   - DOMAIN-SUFFIX,618013.xyz
   - DOMAIN-SUFFIX,618041.xyz
   - DOMAIN-SUFFIX,618608.xyz
-  - DOMAIN-SUFFIX,71us.tov7yi5pxg.cc
   - DOMAIN-SUFFIX,7iwopvf.fz4qivnf.work
   - DOMAIN-SUFFIX,881wiketzwekhela.zztcaigou.com
   - DOMAIN-SUFFIX,911tanhua.com
@@ -74,7 +74,6 @@ payload:
   - DOMAIN-SUFFIX,api.rmedphk.com
   - DOMAIN-SUFFIX,api.sorani.cc
   - DOMAIN-SUFFIX,api.tmdb.org
-  - DOMAIN-SUFFIX,api.umygrx3.com
   - DOMAIN-SUFFIX,api.vuecloudrb.com
   - DOMAIN-SUFFIX,api.w32z7vtd.com
   - DOMAIN-SUFFIX,api.wjbwapi.cc
@@ -153,7 +152,6 @@ payload:
   - DOMAIN-SUFFIX,d2jgz4wrcczusu.cloudfront.net
   - DOMAIN-SUFFIX,d2tw9uw5rogvdw.cloudfront.net
   - DOMAIN-SUFFIX,d2wexzpo1hxhi0.cloudfront.net
-  - DOMAIN-SUFFIX,d30zcqlpvg6j0s.cloudfront.net
   - DOMAIN-SUFFIX,d34vyrelvmcjzt.cloudfront.net
   - DOMAIN-SUFFIX,d3ea5bf3mxqaxz.cloudfront.net
   - DOMAIN-SUFFIX,d3w21k5akureh7.cloudfront.net
@@ -284,6 +282,7 @@ payload:
   - DOMAIN-SUFFIX,iqqah.com
   - DOMAIN-SUFFIX,is1-ssl.mzstatic.com
   - DOMAIN-SUFFIX,j741f6c110b3cf.xyz
+  - DOMAIN-SUFFIX,j818754ac1fdc8.xyz
   - DOMAIN-SUFFIX,j8789198fa66b8.xyz
   - DOMAIN-SUFFIX,jav.place
   - DOMAIN-SUFFIX,javplayer.cc
@@ -499,7 +498,6 @@ payload:
   - DOMAIN-SUFFIX,thumb.live.mmcdn.com
   - DOMAIN-SUFFIX,thumbs-gcore.xvideos-cdn.com
   - DOMAIN-SUFFIX,thumbs.externulls.com
-  - DOMAIN-SUFFIX,tju.bnmdquasi.cc
   - DOMAIN-SUFFIX,tp.spfcas.com
   - DOMAIN-SUFFIX,ts10.hj260302818.top
   - DOMAIN-SUFFIX,tuer.justpic01pt.com
