@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-24 04:09:09
-# Counts: DIRECT=677
+# Updated: 2026-11-25 04:08:28
+# Counts: DIRECT=681
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,881wiketzwekhela.zztcaigou.com
   - DOMAIN-SUFFIX,911tanhua.com
   - DOMAIN-SUFFIX,911tanhua.net
+  - DOMAIN-SUFFIX,91porn01.cc
   - DOMAIN-SUFFIX,a.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,ab.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,acs.youku.com
@@ -193,6 +194,7 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,gimg0.baidu.com
   - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,h5.xxoo168.org
   - DOMAIN-SUFFIX,h5.xxoox96.org
   - DOMAIN-SUFFIX,hd.kuktxu.com
@@ -317,6 +319,7 @@ payload:
   - DOMAIN-SUFFIX,long92.org
   - DOMAIN-SUFFIX,m.360buyimg.com
   - DOMAIN-SUFFIX,m.douyu.com
+  - DOMAIN-SUFFIX,m.ijjxsxzw.com
   - DOMAIN-SUFFIX,m.lrts.me
   - DOMAIN-SUFFIX,m.media-amazon.com
   - DOMAIN-SUFFIX,m.mhkami.com
@@ -334,6 +337,7 @@ payload:
   - DOMAIN-SUFFIX,ma0m1ss3a5chap.621g3uxa.com
   - DOMAIN-SUFFIX,mcspapp.5g.wasu.tv
   - DOMAIN-SUFFIX,mcsppic.5g.wasu.tv
+  - DOMAIN-SUFFIX,media-hls.growcdnssedge.com
   - DOMAIN-SUFFIX,media-hls.sacfedge.com
   - DOMAIN-SUFFIX,meirentu.club
   - DOMAIN-SUFFIX,meizi5.com
@@ -508,7 +512,6 @@ payload:
   - DOMAIN-SUFFIX,tyyswimg2.com
   - DOMAIN-SUFFIX,u.shytkjgs.com
   - DOMAIN-SUFFIX,ukzyvod3.ukubf5.com
-  - DOMAIN-SUFFIX,upload.wikimedia.org
   - DOMAIN-SUFFIX,ups.5g.wasu.tv
   - DOMAIN-SUFFIX,v.api.aa1.cn
   - DOMAIN-SUFFIX,v.fengbao14.com
@@ -573,6 +576,7 @@ payload:
   - DOMAIN-SUFFIX,www.88xsp85.com
   - DOMAIN-SUFFIX,www.998pian.com
   - DOMAIN-SUFFIX,www.99jj28.com
+  - DOMAIN-SUFFIX,www.99jj30.com
   - DOMAIN-SUFFIX,www.99jj37.com
   - DOMAIN-SUFFIX,www.9hanju.com
   - DOMAIN-SUFFIX,www.baidu.com
