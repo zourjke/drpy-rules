@@ -1,27 +1,30 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-24 04:09:09
-# 统计: DIRECT=677, PROXY=76
+# 更新时间: 2026-11-25 04:08:28
+# 统计: DIRECT=681, PROXY=79
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
 HOST-SUFFIX,4hu.tv,PROXY
 HOST-SUFFIX,51cg1.com,PROXY
+HOST-SUFFIX,56vgj.tkxohouk.cc,PROXY
 HOST-SUFFIX,8se.me,PROXY
 HOST-SUFFIX,91nt.com,PROXY
 HOST-SUFFIX,91porn.com,PROXY
-HOST-SUFFIX,91porn01.cc,PROXY
 HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,ai.dramarush.tv,PROXY
+HOST-SUFFIX,alter.tkxohouk.cc,PROXY
 HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.xinlangapi.com,PROXY
+HOST-SUFFIX,assure.tkxohouk.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
+HOST-SUFFIX,broken.tkxohouk.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
+HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
-HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,h5.rykamuzw.ink,PROXY
 HOST-SUFFIX,hsck123.com,PROXY
 HOST-SUFFIX,hsex.icu,PROXY
@@ -40,7 +43,6 @@ HOST-SUFFIX,jsonbfq1.cszmys.com,PROXY
 HOST-SUFFIX,kanliao7.net,PROXY
 HOST-SUFFIX,kanliao7.org,PROXY
 HOST-SUFFIX,luyitian.com,PROXY
-HOST-SUFFIX,m.ijjxsxzw.com,PROXY
 HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
 HOST-SUFFIX,personalmv.com,PROXY
@@ -55,6 +57,7 @@ HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
+HOST-SUFFIX,www.4kcz.com,PROXY
 HOST-SUFFIX,www.51papaya.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
@@ -115,6 +118,7 @@ HOST-SUFFIX,7iwopvf.fz4qivnf.work,DIRECT
 HOST-SUFFIX,881wiketzwekhela.zztcaigou.com,DIRECT
 HOST-SUFFIX,911tanhua.com,DIRECT
 HOST-SUFFIX,911tanhua.net,DIRECT
+HOST-SUFFIX,91porn01.cc,DIRECT
 HOST-SUFFIX,a.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,ab.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,acs.youku.com,DIRECT
@@ -274,6 +278,7 @@ HOST-SUFFIX,gh-proxy.org,DIRECT
 HOST-SUFFIX,ghproxy.net,DIRECT
 HOST-SUFFIX,gimg0.baidu.com,DIRECT
 HOST-SUFFIX,gitee.com,DIRECT
+HOST-SUFFIX,github.com,DIRECT
 HOST-SUFFIX,h5.xxoo168.org,DIRECT
 HOST-SUFFIX,h5.xxoox96.org,DIRECT
 HOST-SUFFIX,hd.kuktxu.com,DIRECT
@@ -398,6 +403,7 @@ HOST-SUFFIX,logo2.babyfirst.cc,DIRECT
 HOST-SUFFIX,long92.org,DIRECT
 HOST-SUFFIX,m.360buyimg.com,DIRECT
 HOST-SUFFIX,m.douyu.com,DIRECT
+HOST-SUFFIX,m.ijjxsxzw.com,DIRECT
 HOST-SUFFIX,m.lrts.me,DIRECT
 HOST-SUFFIX,m.media-amazon.com,DIRECT
 HOST-SUFFIX,m.mhkami.com,DIRECT
@@ -415,6 +421,7 @@ HOST-SUFFIX,m3u8.74cdn.com,DIRECT
 HOST-SUFFIX,ma0m1ss3a5chap.621g3uxa.com,DIRECT
 HOST-SUFFIX,mcspapp.5g.wasu.tv,DIRECT
 HOST-SUFFIX,mcsppic.5g.wasu.tv,DIRECT
+HOST-SUFFIX,media-hls.growcdnssedge.com,DIRECT
 HOST-SUFFIX,media-hls.sacfedge.com,DIRECT
 HOST-SUFFIX,meirentu.club,DIRECT
 HOST-SUFFIX,meizi5.com,DIRECT
@@ -589,7 +596,6 @@ HOST-SUFFIX,txxkl7s60j.com,DIRECT
 HOST-SUFFIX,tyyswimg2.com,DIRECT
 HOST-SUFFIX,u.shytkjgs.com,DIRECT
 HOST-SUFFIX,ukzyvod3.ukubf5.com,DIRECT
-HOST-SUFFIX,upload.wikimedia.org,DIRECT
 HOST-SUFFIX,ups.5g.wasu.tv,DIRECT
 HOST-SUFFIX,v.api.aa1.cn,DIRECT
 HOST-SUFFIX,v.fengbao14.com,DIRECT
@@ -654,6 +660,7 @@ HOST-SUFFIX,www.66tutup.com,DIRECT
 HOST-SUFFIX,www.88xsp85.com,DIRECT
 HOST-SUFFIX,www.998pian.com,DIRECT
 HOST-SUFFIX,www.99jj28.com,DIRECT
+HOST-SUFFIX,www.99jj30.com,DIRECT
 HOST-SUFFIX,www.99jj37.com,DIRECT
 HOST-SUFFIX,www.9hanju.com,DIRECT
 HOST-SUFFIX,www.baidu.com,DIRECT
