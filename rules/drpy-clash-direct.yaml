@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-25 04:08:28
-# Counts: DIRECT=681
+# Updated: 2026-11-26 04:08:27
+# Counts: DIRECT=680
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -75,9 +75,10 @@ payload:
   - DOMAIN-SUFFIX,api.w32z7vtd.com
   - DOMAIN-SUFFIX,api.wjbwapi.cc
   - DOMAIN-SUFFIX,api.yujn.cn
-  - DOMAIN-SUFFIX,api1.cszmys.com
   - DOMAIN-SUFFIX,api3-normal-sinfonlinea.fqnovel.com
   - DOMAIN-SUFFIX,api5-hl.qishui.com
+  - DOMAIN-SUFFIX,api5-normal-lf.fqnovel.com
+  - DOMAIN-SUFFIX,api5-normal-lq.fqnovel.com
   - DOMAIN-SUFFIX,api5-normal-sinfonlinea.fqnovel.com
   - DOMAIN-SUFFIX,api5-normal-sinfonlineb.fqnovel.com
   - DOMAIN-SUFFIX,apidd.spthgb.com
@@ -439,8 +440,8 @@ payload:
   - DOMAIN-SUFFIX,q9.itc.cn
   - DOMAIN-SUFFIX,qiniu.rongjuwh.cn
   - DOMAIN-SUFFIX,qw.oolrvd.cn
-  - DOMAIN-SUFFIX,r0hiexcmqu1o.cc
   - DOMAIN-SUFFIX,r2.xchina.download
+  - DOMAIN-SUFFIX,reading.snssdk.com
   - DOMAIN-SUFFIX,res1.ubestkid.com
   - DOMAIN-SUFFIX,resource-cdn.tuxiaobei.com
   - DOMAIN-SUFFIX,resvd.ubestkid.com
@@ -490,7 +491,6 @@ payload:
   - DOMAIN-SUFFIX,t27.cdn2020.com
   - DOMAIN-SUFFIX,t4.wnimg2.cfd
   - DOMAIN-SUFFIX,t8.baidu.com
-  - DOMAIN-SUFFIX,taoo.xyz
   - DOMAIN-SUFFIX,thborsejnetsa002la.zztcaigou.com
   - DOMAIN-SUFFIX,thu.bnmdquasi.cc
   - DOMAIN-SUFFIX,thu.gpcqqmsof.cc
@@ -534,6 +534,7 @@ payload:
   - DOMAIN-SUFFIX,v13.rstu6.com
   - DOMAIN-SUFFIX,v13.wsyzym3u8.com
   - DOMAIN-SUFFIX,v3.ppqrrs.com
+  - DOMAIN-SUFFIX,vas-lf-x.snssdk.com
   - DOMAIN-SUFFIX,vcover-hz-pic.puui.qpic.cn
   - DOMAIN-SUFFIX,vcover-vt-pic.puui.qpic.cn
   - DOMAIN-SUFFIX,vdfm.cszmys.com
@@ -619,7 +620,6 @@ payload:
   - DOMAIN-SUFFIX,www.qingting.fm
   - DOMAIN-SUFFIX,www.qsxy.top
   - DOMAIN-SUFFIX,www.quduwx.net
-  - DOMAIN-SUFFIX,www.runjiaxcl.com
   - DOMAIN-SUFFIX,www.sorani.net
   - DOMAIN-SUFFIX,www.sudugu.org
   - DOMAIN-SUFFIX,www.suduguu.com
@@ -662,7 +662,6 @@ payload:
   - DOMAIN-SUFFIX,xmhk.7wzx9.com
   - DOMAIN-SUFFIX,xmu.ezgdtehh.com
   - DOMAIN-SUFFIX,xmu.gpcqqmsof.cc
-  - DOMAIN-SUFFIX,xqjzvcvt.top
   - DOMAIN-SUFFIX,xsayang.fun
   - DOMAIN-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com
   - DOMAIN-SUFFIX,xwang06.com
