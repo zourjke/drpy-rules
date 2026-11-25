@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-25 04:08:28
-# 统计: DIRECT=681, PROXY=79
+# 更新时间: 2026-11-26 04:08:27
+# 统计: DIRECT=680, PROXY=78
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -14,14 +14,12 @@ HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,ai.dramarush.tv,PROXY
 HOST-SUFFIX,alter.tkxohouk.cc,PROXY
-HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.xinlangapi.com,PROXY
 HOST-SUFFIX,assure.tkxohouk.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,broken.tkxohouk.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -47,17 +45,18 @@ HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
 HOST-SUFFIX,personalmv.com,PROXY
 HOST-SUFFIX,pic.lzzypic.com,PROXY
+HOST-SUFFIX,r0hiexcmqu1o.cc,PROXY
 HOST-SUFFIX,raw.shorttv.online,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
 HOST-SUFFIX,t.061899.xyz,PROXY
 HOST-SUFFIX,tw.xiaoyakankan.com,PROXY
+HOST-SUFFIX,upload.wikimedia.org,PROXY
 HOST-SUFFIX,video.beeg.com,PROXY
 HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
-HOST-SUFFIX,www.4kcz.com,PROXY
 HOST-SUFFIX,www.51papaya.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
@@ -159,9 +158,10 @@ HOST-SUFFIX,api.vuecloudrb.com,DIRECT
 HOST-SUFFIX,api.w32z7vtd.com,DIRECT
 HOST-SUFFIX,api.wjbwapi.cc,DIRECT
 HOST-SUFFIX,api.yujn.cn,DIRECT
-HOST-SUFFIX,api1.cszmys.com,DIRECT
 HOST-SUFFIX,api3-normal-sinfonlinea.fqnovel.com,DIRECT
 HOST-SUFFIX,api5-hl.qishui.com,DIRECT
+HOST-SUFFIX,api5-normal-lf.fqnovel.com,DIRECT
+HOST-SUFFIX,api5-normal-lq.fqnovel.com,DIRECT
 HOST-SUFFIX,api5-normal-sinfonlinea.fqnovel.com,DIRECT
 HOST-SUFFIX,api5-normal-sinfonlineb.fqnovel.com,DIRECT
 HOST-SUFFIX,apidd.spthgb.com,DIRECT
@@ -523,8 +523,8 @@ HOST-SUFFIX,q7.itc.cn,DIRECT
 HOST-SUFFIX,q9.itc.cn,DIRECT
 HOST-SUFFIX,qiniu.rongjuwh.cn,DIRECT
 HOST-SUFFIX,qw.oolrvd.cn,DIRECT
-HOST-SUFFIX,r0hiexcmqu1o.cc,DIRECT
 HOST-SUFFIX,r2.xchina.download,DIRECT
+HOST-SUFFIX,reading.snssdk.com,DIRECT
 HOST-SUFFIX,res1.ubestkid.com,DIRECT
 HOST-SUFFIX,resource-cdn.tuxiaobei.com,DIRECT
 HOST-SUFFIX,resvd.ubestkid.com,DIRECT
@@ -574,7 +574,6 @@ HOST-SUFFIX,t0.97img.com,DIRECT
 HOST-SUFFIX,t27.cdn2020.com,DIRECT
 HOST-SUFFIX,t4.wnimg2.cfd,DIRECT
 HOST-SUFFIX,t8.baidu.com,DIRECT
-HOST-SUFFIX,taoo.xyz,DIRECT
 HOST-SUFFIX,thborsejnetsa002la.zztcaigou.com,DIRECT
 HOST-SUFFIX,thu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,thu.gpcqqmsof.cc,DIRECT
@@ -618,6 +617,7 @@ HOST-SUFFIX,v1.zuidazym3u8.com,DIRECT
 HOST-SUFFIX,v13.rstu6.com,DIRECT
 HOST-SUFFIX,v13.wsyzym3u8.com,DIRECT
 HOST-SUFFIX,v3.ppqrrs.com,DIRECT
+HOST-SUFFIX,vas-lf-x.snssdk.com,DIRECT
 HOST-SUFFIX,vcover-hz-pic.puui.qpic.cn,DIRECT
 HOST-SUFFIX,vcover-vt-pic.puui.qpic.cn,DIRECT
 HOST-SUFFIX,vdfm.cszmys.com,DIRECT
@@ -703,7 +703,6 @@ HOST-SUFFIX,www.qimao.com,DIRECT
 HOST-SUFFIX,www.qingting.fm,DIRECT
 HOST-SUFFIX,www.qsxy.top,DIRECT
 HOST-SUFFIX,www.quduwx.net,DIRECT
-HOST-SUFFIX,www.runjiaxcl.com,DIRECT
 HOST-SUFFIX,www.sorani.net,DIRECT
 HOST-SUFFIX,www.sudugu.org,DIRECT
 HOST-SUFFIX,www.suduguu.com,DIRECT
@@ -746,7 +745,6 @@ HOST-SUFFIX,xl.xltupian.com,DIRECT
 HOST-SUFFIX,xmhk.7wzx9.com,DIRECT
 HOST-SUFFIX,xmu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,xmu.gpcqqmsof.cc,DIRECT
-HOST-SUFFIX,xqjzvcvt.top,DIRECT
 HOST-SUFFIX,xsayang.fun,DIRECT
 HOST-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com,DIRECT
 HOST-SUFFIX,xwang06.com,DIRECT
