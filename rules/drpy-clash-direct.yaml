@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-26 04:08:27
-# Counts: DIRECT=680
+# Updated: 2026-11-27 04:08:24
+# Counts: DIRECT=682
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -440,6 +440,7 @@ payload:
   - DOMAIN-SUFFIX,q9.itc.cn
   - DOMAIN-SUFFIX,qiniu.rongjuwh.cn
   - DOMAIN-SUFFIX,qw.oolrvd.cn
+  - DOMAIN-SUFFIX,r0hiexcmqu1o.cc
   - DOMAIN-SUFFIX,r2.xchina.download
   - DOMAIN-SUFFIX,reading.snssdk.com
   - DOMAIN-SUFFIX,res1.ubestkid.com
@@ -491,6 +492,7 @@ payload:
   - DOMAIN-SUFFIX,t27.cdn2020.com
   - DOMAIN-SUFFIX,t4.wnimg2.cfd
   - DOMAIN-SUFFIX,t8.baidu.com
+  - DOMAIN-SUFFIX,taoo.xyz
   - DOMAIN-SUFFIX,thborsejnetsa002la.zztcaigou.com
   - DOMAIN-SUFFIX,thu.bnmdquasi.cc
   - DOMAIN-SUFFIX,thu.gpcqqmsof.cc
