@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-26 04:08:27
-# 统计: DIRECT=680, PROXY=78
+# 更新时间: 2026-11-27 04:08:24
+# 统计: DIRECT=682, PROXY=82
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -14,12 +14,15 @@ HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,ai.dramarush.tv,PROXY
 HOST-SUFFIX,alter.tkxohouk.cc,PROXY
+HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.xinlangapi.com,PROXY
+HOST-SUFFIX,api1.cszmys.com,PROXY
 HOST-SUFFIX,assure.tkxohouk.cc,PROXY
 HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,broken.tkxohouk.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
+HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -45,7 +48,6 @@ HOST-SUFFIX,missav.ai,PROXY
 HOST-SUFFIX,penthousegold.com,PROXY
 HOST-SUFFIX,personalmv.com,PROXY
 HOST-SUFFIX,pic.lzzypic.com,PROXY
-HOST-SUFFIX,r0hiexcmqu1o.cc,PROXY
 HOST-SUFFIX,raw.shorttv.online,PROXY
 HOST-SUFFIX,rou.video,PROXY
 HOST-SUFFIX,supjav.com,PROXY
@@ -57,6 +59,7 @@ HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
+HOST-SUFFIX,www.4kcz.com,PROXY
 HOST-SUFFIX,www.51papaya.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
@@ -76,6 +79,7 @@ HOST-SUFFIX,www.xsnvshen.com,PROXY
 HOST-SUFFIX,www.xvideos.com,PROXY
 HOST-SUFFIX,xhamster.com,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
+HOST-SUFFIX,xqjzvcvt.top,PROXY
 HOST-SUFFIX,z9f8y.com,PROXY
 HOST-SUFFIX,zh.cam4.com,PROXY
 HOST-SUFFIX,zh.stripchat.com,PROXY
@@ -523,6 +527,7 @@ HOST-SUFFIX,q7.itc.cn,DIRECT
 HOST-SUFFIX,q9.itc.cn,DIRECT
 HOST-SUFFIX,qiniu.rongjuwh.cn,DIRECT
 HOST-SUFFIX,qw.oolrvd.cn,DIRECT
+HOST-SUFFIX,r0hiexcmqu1o.cc,DIRECT
 HOST-SUFFIX,r2.xchina.download,DIRECT
 HOST-SUFFIX,reading.snssdk.com,DIRECT
 HOST-SUFFIX,res1.ubestkid.com,DIRECT
@@ -574,6 +579,7 @@ HOST-SUFFIX,t0.97img.com,DIRECT
 HOST-SUFFIX,t27.cdn2020.com,DIRECT
 HOST-SUFFIX,t4.wnimg2.cfd,DIRECT
 HOST-SUFFIX,t8.baidu.com,DIRECT
+HOST-SUFFIX,taoo.xyz,DIRECT
 HOST-SUFFIX,thborsejnetsa002la.zztcaigou.com,DIRECT
 HOST-SUFFIX,thu.bnmdquasi.cc,DIRECT
 HOST-SUFFIX,thu.gpcqqmsof.cc,DIRECT
