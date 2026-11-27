@@ -1,6 +1,6 @@
 # drpy-node DIRECT (Clash/ClashMeta rule-provider)
-# Updated: 2026-11-27 04:08:24
-# Counts: DIRECT=682
+# Updated: 2026-11-28 04:08:42
+# Counts: DIRECT=681
 
 payload:
   - DOMAIN-SUFFIX,0img.hitv.com
@@ -34,7 +34,6 @@ payload:
   - DOMAIN-SUFFIX,881wiketzwekhela.zztcaigou.com
   - DOMAIN-SUFFIX,911tanhua.com
   - DOMAIN-SUFFIX,911tanhua.net
-  - DOMAIN-SUFFIX,91porn01.cc
   - DOMAIN-SUFFIX,a.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,ab.xjjkdfw4.sbs
   - DOMAIN-SUFFIX,acs.youku.com
@@ -590,7 +589,6 @@ payload:
   - DOMAIN-SUFFIX,www.douyu.com
   - DOMAIN-SUFFIX,www.dsd900.com
   - DOMAIN-SUFFIX,www.dsd900.lol
-  - DOMAIN-SUFFIX,www.dycg66.com
   - DOMAIN-SUFFIX,www.dyg123.net
   - DOMAIN-SUFFIX,www.free4kporn.com
   - DOMAIN-SUFFIX,www.fullhd.to
@@ -664,6 +662,7 @@ payload:
   - DOMAIN-SUFFIX,xmhk.7wzx9.com
   - DOMAIN-SUFFIX,xmu.ezgdtehh.com
   - DOMAIN-SUFFIX,xmu.gpcqqmsof.cc
+  - DOMAIN-SUFFIX,xqjzvcvt.top
   - DOMAIN-SUFFIX,xsayang.fun
   - DOMAIN-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com
   - DOMAIN-SUFFIX,xwang06.com
