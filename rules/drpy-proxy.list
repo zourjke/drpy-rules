@@ -1,6 +1,6 @@
 # drpy-node 源站分流规则 (QuantumultX)
-# 更新时间: 2026-11-27 04:08:24
-# 统计: DIRECT=682, PROXY=82
+# 更新时间: 2026-11-28 04:08:42
+# 统计: DIRECT=681, PROXY=78
 
 # 需要代理的域名
 HOST-SUFFIX,123av.com,PROXY
@@ -14,7 +14,6 @@ HOST-SUFFIX,91shenshi.com,PROXY
 HOST-SUFFIX,a.91kp.net,PROXY
 HOST-SUFFIX,ai.dramarush.tv,PROXY
 HOST-SUFFIX,alter.tkxohouk.cc,PROXY
-HOST-SUFFIX,api.ok.ru,PROXY
 HOST-SUFFIX,api.xinlangapi.com,PROXY
 HOST-SUFFIX,api1.cszmys.com,PROXY
 HOST-SUFFIX,assure.tkxohouk.cc,PROXY
@@ -22,7 +21,6 @@ HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,beeg.com,PROXY
 HOST-SUFFIX,broken.tkxohouk.cc,PROXY
 HOST-SUFFIX,chaturbate.com,PROXY
-HOST-SUFFIX,cloudflare-dns.com,PROXY
 HOST-SUFFIX,cn.xhamster.com,PROXY
 HOST-SUFFIX,encrypted-tbn0.gstatic.com,PROXY
 HOST-SUFFIX,gapi0320.3njzmrx1.com,PROXY
@@ -59,7 +57,6 @@ HOST-SUFFIX,videos1.cszmys.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,wanwuu.com,PROXY
 HOST-SUFFIX,whos.tv,PROXY
-HOST-SUFFIX,www.4kcz.com,PROXY
 HOST-SUFFIX,www.51papaya.com,PROXY
 HOST-SUFFIX,www.bttwo.net,PROXY
 HOST-SUFFIX,www.dsd.com.se,PROXY
@@ -79,7 +76,6 @@ HOST-SUFFIX,www.xsnvshen.com,PROXY
 HOST-SUFFIX,www.xvideos.com,PROXY
 HOST-SUFFIX,xhamster.com,PROXY
 HOST-SUFFIX,xiaoyakankan.com,PROXY
-HOST-SUFFIX,xqjzvcvt.top,PROXY
 HOST-SUFFIX,z9f8y.com,PROXY
 HOST-SUFFIX,zh.cam4.com,PROXY
 HOST-SUFFIX,zh.stripchat.com,PROXY
@@ -121,7 +117,6 @@ HOST-SUFFIX,7iwopvf.fz4qivnf.work,DIRECT
 HOST-SUFFIX,881wiketzwekhela.zztcaigou.com,DIRECT
 HOST-SUFFIX,911tanhua.com,DIRECT
 HOST-SUFFIX,911tanhua.net,DIRECT
-HOST-SUFFIX,91porn01.cc,DIRECT
 HOST-SUFFIX,a.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,ab.xjjkdfw4.sbs,DIRECT
 HOST-SUFFIX,acs.youku.com,DIRECT
@@ -677,7 +672,6 @@ HOST-SUFFIX,www.dgpengcheng.com,DIRECT
 HOST-SUFFIX,www.douyu.com,DIRECT
 HOST-SUFFIX,www.dsd900.com,DIRECT
 HOST-SUFFIX,www.dsd900.lol,DIRECT
-HOST-SUFFIX,www.dycg66.com,DIRECT
 HOST-SUFFIX,www.dyg123.net,DIRECT
 HOST-SUFFIX,www.free4kporn.com,DIRECT
 HOST-SUFFIX,www.fullhd.to,DIRECT
@@ -751,6 +745,7 @@ HOST-SUFFIX,xl.xltupian.com,DIRECT
 HOST-SUFFIX,xmhk.7wzx9.com,DIRECT
 HOST-SUFFIX,xmu.ezgdtehh.com,DIRECT
 HOST-SUFFIX,xmu.gpcqqmsof.cc,DIRECT
+HOST-SUFFIX,xqjzvcvt.top,DIRECT
 HOST-SUFFIX,xsayang.fun,DIRECT
 HOST-SUFFIX,xtoey0-1751-ppp.oss-accelerate.aliyuncs.com,DIRECT
 HOST-SUFFIX,xwang06.com,DIRECT
